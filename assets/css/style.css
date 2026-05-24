@@ -274,12 +274,6 @@ code, pre, .mono {
   border-bottom: none;
 }
 .post-item a:hover { color: var(--fg); border-bottom: none; text-decoration: underline; text-underline-offset: 4px; }
-.inline-tags { display: inline-flex; gap: 8px; }
-.tag-small {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 11px;
-  color: var(--fg-mute);
-}
 
 /* ============================================================
    LIVE FEED
@@ -414,25 +408,6 @@ code, pre, .mono {
   line-height: 1.55;
   margin-bottom: 20px;
 }
-.post-tags { display: flex; gap: 8px; flex-wrap: wrap; }
-.tag {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 11px;
-  color: var(--fg-dim);
-  background: transparent;
-  border: 1px solid var(--line-strong);
-  padding: 3px 9px;
-  border-radius: 999px;
-  text-decoration: none;
-  letter-spacing: 0.02em;
-  transition: border-color 150ms ease, color 150ms ease;
-}
-.tag:hover {
-  color: var(--fg);
-  border-color: var(--fg);
-  text-decoration: none;
-}
-.tag-count { color: var(--fg-mute); margin-left: 4px; }
 
 .post-content { font-size: 16px; line-height: 1.8; color: var(--fg); }
 .post-content > * + * { margin-top: 1.2em; }
@@ -502,28 +477,6 @@ code, pre, .mono {
   border-bottom: none;
 }
 .back-link:hover { color: var(--fg); border-bottom: none; }
-
-/* ============================================================
-   TAGS PAGE
-   ============================================================ */
-.tag-cloud {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 56px;
-}
-.tag-section {
-  margin-top: 48px;
-  scroll-margin-top: 80px;
-}
-.tag-section h2 {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--fg);
-  margin-bottom: 14px;
-  letter-spacing: 0.04em;
-}
 
 /* ============================================================
    404
