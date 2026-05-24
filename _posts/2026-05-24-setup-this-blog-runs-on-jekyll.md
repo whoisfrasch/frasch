@@ -1,7 +1,6 @@
 ---
 title: "Setup: this blog runs on Jekyll"
 date: 2026-05-24 12:00:00 +0200
-tags: [meta, setup]
 description: "How this blog is structured — posting workflow, file layout, and the live security feed."
 ---
 
