@@ -117,12 +117,14 @@ code, pre, .mono {
   font-size: 11px;
   font-weight: 700;
   color: var(--fg);
+  flex-shrink: 0;
 }
 .brand-name { letter-spacing: -0.01em; }
 
 .site-nav {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 22px;
   font-family: 'JetBrains Mono', monospace;
   font-size: 13px;
@@ -132,6 +134,7 @@ code, pre, .mono {
   border-bottom: none;
   position: relative;
   padding-bottom: 2px;
+  white-space: nowrap;
 }
 .site-nav a::after {
   content: '';
@@ -160,6 +163,7 @@ code, pre, .mono {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
   transition: border-color 150ms ease, color 150ms ease, transform 200ms ease;
 }
 .theme-toggle:hover {
