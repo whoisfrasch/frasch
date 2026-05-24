@@ -87,28 +87,58 @@
     } catch (e) { /* ignore quota errors */ }
   }
 
+  function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+  function rateLimitMessage(res) {
+    const remaining = res.headers.get('x-ratelimit-remaining');
+    if (res.status === 429 || (res.status === 403 && remaining === '0')) {
+      const reset = parseInt(res.headers.get('x-ratelimit-reset'), 10);
+      if (reset) {
+        const mins = Math.max(1, Math.ceil((reset * 1000 - Date.now()) / 60000));
+        return `Rate limit reached. Resets in ~${mins}m.`;
+      }
+      return 'Rate limit reached. Try again later.';
+    }
+    return null;
+  }
+
+  // Fetch with retry + exponential backoff for transient failures.
+  // Does NOT retry on rate limits (pointless until reset) — surfaces those.
+  async function fetchWithRetry(retries = 3) {
+    let delay = 2000;
+    for (let attempt = 0; ; attempt++) {
+      try {
+        const res = await fetch(ENDPOINT, {
+          headers: { 'Accept': 'application/vnd.github+json' }
+        });
+        const limited = rateLimitMessage(res);
+        if (limited) { const e = new Error(limited); e.rateLimited = true; throw e; }
+        if (!res.ok) throw new Error(`API responded ${res.status}`);
+        return await res.json();
+      } catch (err) {
+        if (err.rateLimited || attempt >= retries) throw err;
+        await sleep(delay);
+        delay *= 2;
+      }
+    }
+  }
+
   async function fetchFeed() {
     // 1) Try cache first (paint immediately)
     const cached = readCache();
     if (cached) render(cached);
 
-    // 2) Fetch fresh in background
+    // 2) Fetch fresh in background, retrying transient errors
     try {
-      const res = await fetch(ENDPOINT, {
-        headers: { 'Accept': 'application/vnd.github+json' }
-      });
-      if (!res.ok) {
-        if (!cached) {
-          container.innerHTML = `<div class="feed-error">API responded ${res.status}. Try again later.</div>`;
-        }
-        return;
-      }
-      const data = await res.json();
+      const data = await fetchWithRetry();
       writeCache(data);
       render(data);
     } catch (err) {
       if (!cached) {
-        container.innerHTML = '<div class="feed-error">Could not reach the advisory API. Check your connection.</div>';
+        const msg = err.rateLimited
+          ? err.message
+          : 'Could not reach the advisory API. Check your connection.';
+        container.innerHTML = `<div class="feed-error">${escapeHtml(msg)}</div>`;
       }
       console.error('[live-feed]', err);
     }

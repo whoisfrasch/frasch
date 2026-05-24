@@ -608,3 +608,21 @@ code, pre, .mono {
   border-bottom: none;
 }
 .footer-inner a:hover { color: var(--fg); border-bottom: none; }
+
+/* ============================================================
+   REDUCED MOTION
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .live-dot { animation: none; }
+  .theme-toggle:hover { transform: none; }
+  .advisory:hover { transform: none; }
+  .post-item:hover { padding-left: 0; }
+}
