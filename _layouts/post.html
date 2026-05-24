@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+      <span class="dot">·</span>
+      <span>{% include reading_time.html content=content %}</span>
+    </p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-lede">{{ page.description }}</p>
+    {% endif %}
+    {% if page.tags and page.tags.size > 0 %}
+      <p class="post-tags">
+        {% for tag in page.tags %}
+          <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}" class="tag">#{{ tag }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    <a href="{{ '/' | relative_url }}" class="back-link">← back to notes</a>
+  </footer>
+</article>

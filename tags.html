@@ -1,0 +1,37 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+
+<section class="hero">
+  <h1>Tags</h1>
+  <p class="tagline">Browse notes by topic.</p>
+</section>
+
+{% assign tags = site.tags | sort %}
+{% if tags.size == 0 %}
+  <p class="empty">Noch keine Tags. Füg sie in den Posts in der Front-Matter ein: <code>tags: [foo, bar]</code></p>
+{% else %}
+
+<section class="tag-cloud">
+  {% for tag in tags %}
+    <a href="#{{ tag[0] | slugify }}" class="tag">#{{ tag[0] }} <span class="tag-count">{{ tag[1].size }}</span></a>
+  {% endfor %}
+</section>
+
+{% for tag in tags %}
+  <section class="tag-section" id="{{ tag[0] | slugify }}">
+    <h2>#{{ tag[0] }}</h2>
+    <ul class="post-list">
+      {% for post in tag[1] %}
+        <li class="post-item">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
+
+{% endif %}

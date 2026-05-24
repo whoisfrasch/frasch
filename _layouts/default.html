@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  {%- include head.html -%}
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="brand">
+        <span class="brand-mark">&gt;_</span>
+        <span class="brand-name">{{ site.title }}</span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">notes</a>
+        <a href="{{ '/tags/' | relative_url }}">tags</a>
+        <a href="{{ '/portfolio/' | relative_url }}">portfolio</a>
+        <a href="{{ '/about/' | relative_url }}">about</a>
+        <a href="{{ '/feed.xml' | relative_url }}" aria-label="RSS feed" title="RSS">rss</a>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
+          <span class="theme-icon-dark">●</span>
+          <span class="theme-icon-light">○</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>© {{ site.time | date: '%Y' }} {{ site.author }}</span>
+      <span class="footer-links">
+        <a href="https://github.com/{{ site.author }}">github</a>
+        <a href="{{ '/feed.xml' | relative_url }}">rss</a>
+      </span>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>
+</body>
+</html>

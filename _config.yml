@@ -1,0 +1,53 @@
+title: schubertresearch
+tagline: Security Research & Bug Bounty Notes
+description: >-
+  Notes, write-ups and research on web security, vulnerability hunting,
+  and bug bounty work.
+url: "https://schubertresearch.github.io"
+author: schubertresearch
+lang: en
+locale: en_US
+
+# Include posts dated in the future relative to build time
+future: true
+
+# URLs
+permalink: /blog/:year/:title/
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+# Plugins available on GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO defaults
+twitter:
+  card: summary_large_image
+social:
+  name: schubertresearch
+  links:
+    - https://github.com/schubertresearch
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - .gitignore
+  - vendor
+
+# Default front-matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
