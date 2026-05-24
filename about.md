@@ -15,6 +15,6 @@ permalink: /about/
   <h2>Contact</h2>
   <ul>
     <li>GitHub: <a href="https://github.com/whoisfrasch">@whoisfrasch</a></li>
-    <li>GitHub: <a href="https://x.com/whoisfrasch">@whoisfrasch</a></li>
+    <li>X/Twitter: <a href="https://x.com/whoisfrasch">@whoisfrasch</a></li>
   </ul>
 </section>
