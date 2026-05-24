@@ -19,11 +19,6 @@ title: Notes
           <li class="post-item">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            {% if post.tags and post.tags.size > 0 %}
-              <span class="inline-tags">
-                {% for tag in post.tags limit: 3 %}<span class="tag-small">#{{ tag }}</span>{% endfor %}
-              </span>
-            {% endif %}
           </li>
         {% endfor %}
       </ul>
