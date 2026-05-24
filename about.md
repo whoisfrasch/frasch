@@ -12,7 +12,7 @@ permalink: /about/
     write-ups, methodology, and occasional rants.
   </p>
 
-  <h2>Contact</h2>
+  <h2>Socials</h2>
   <ul>
     <li>GitHub: <a href="https://github.com/whoisfrasch">@whoisfrasch</a></li>
     <li>X/Twitter: <a href="https://x.com/whoisfrasch">@whoisfrasch</a></li>
