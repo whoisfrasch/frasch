@@ -1,10 +1,10 @@
-title: schubertresearch
+title: frasch
 tagline: Security Research & Bug Bounty Notes
 description: >-
   Notes, write-ups and research on web security, vulnerability hunting,
   and bug bounty work.
-url: "https://schubertresearch.github.io"
-author: schubertresearch
+url: "https://frasch.github.io"
+author: frasch
 lang: en
 locale: en_US
 
@@ -31,9 +31,9 @@ plugins:
 twitter:
   card: summary_large_image
 social:
-  name: schubertresearch
+  name: frasch
   links:
-    - https://github.com/schubertresearch
+    - https://github.com/frasch
 
 # Exclude from build
 exclude:
