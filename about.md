@@ -8,9 +8,10 @@ permalink: /about/
   <h1>About</h1>
 
   <p>
-    I'm an independent security researcher working in offensive security. I
-    pull systems apart to see how they actually work, then find the spots
-    where they give.
+    Independent Security Researcher focused on Offensive Security. Here I
+    document write-ups of interesting vulnerabilities, reconnaissance
+    methodologies, AI-augmented techniques, and my thoughts on modern
+    application security.
   </p>
 
   <p>
@@ -26,8 +27,7 @@ permalink: /about/
     nobody revisited, the data a company quietly hands out without realising.
     The interesting part is rarely a single bug — it's connecting the small,
     overlooked things into something that actually matters, and doing it
-    carefully enough that the report holds up. That's the part I enjoy, and
-    it's most of what I end up writing about.
+    carefully enough that the report holds up.
   </p>
 
   <p>
@@ -39,9 +39,7 @@ permalink: /about/
   </p>
 
   <p>
-    This site is where it gets written down: findings, the thinking behind
-    them, and how I use these tools day to day. If you want to reach me, the
-    links below are the best way.
+    If you want to reach me, the links below are the best way.
   </p>
 
   <h2>Socials</h2>
