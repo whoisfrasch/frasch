@@ -1,6 +1,6 @@
 ---
 title: "Three Criticals Without Sending a Single Payload"
-date: 2026-05-25 12:00:00 +0200
+date: 2026-03-21 12:00:00 +0200
 description: "What the public internet already says about a publicly traded textile manufacturer with around half a billion dollars in revenue, if you read it carefully. Three critical issues, no exploitation required."
 ---
 
