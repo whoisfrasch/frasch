@@ -8,38 +8,38 @@ permalink: /about/
   <h1>About</h1>
 
   <p>
-    Independent Security Researcher focused on Offensive Security. Here I
-    document write-ups of interesting vulnerabilities, reconnaissance
-    methodologies, AI-augmented techniques, and my thoughts on modern
+    Independent security researcher, focused on offensive security. This is
+    where I write up the bugs I find, the recon that gets me to them, how I
+    use AI in the process, and whatever I'm currently chewing on in
     application security.
   </p>
 
   <p>
-    The work runs across web and application security and the infrastructure
-    underneath, and it increasingly leans on AI — which I treat as a sharp,
-    fast analyst rather than an oracle, and check before I trust. When I find
-    something real, I see it through to a fix; I've worked with national CERTs
-    on coordinated disclosure.
+    Most of my work sits across web and application security and the
+    infrastructure under it. AI runs through a lot of it these days, but I
+    treat it as a fast junior analyst rather than a genius. It's quick and
+    well-read, and wrong often enough that I check everything before I trust
+    it. When I find something real I see it through to a fix, and I've worked
+    with national CERTs on coordinated disclosure.
   </p>
 
   <p>
-    Most of what I find isn't exotic. It's the box nobody migrated, the config
-    nobody revisited, the data a company quietly hands out without realising.
-    The interesting part is rarely a single bug — it's connecting the small,
-    overlooked things into something that actually matters, and doing it
-    carefully enough that the report holds up.
+    Most of what I find isn't fancy. Usually it's the thing everyone walked
+    past: an old box nobody migrated, a setting nobody revisited, data quietly
+    leaking out. One bug on its own rarely means much. It gets interesting
+    when a few small, boring things line up into something real, and you've
+    written it up carefully enough that it holds.
   </p>
 
   <p>
-    I'm a believer in learning in the open. The notes here aren't polished
-    after the fact for an audience; they're the real working process —
-    including the dead ends, the things I got wrong on the first pass, and the
-    habits that keep me from fooling myself. If any of it saves you an
-    afternoon, that's the point.
+    I like working in the open. What's here isn't polished up for an audience
+    after the fact. It's roughly how the work actually went, dead ends and
+    wrong first guesses included, plus the habits that keep me from fooling
+    myself. If any of it saves you an afternoon, good.
   </p>
 
   <p>
-    If you want to reach me, the links below are the best way.
+    Easiest way to reach me is the links below.
   </p>
 
   <h2>Socials</h2>
