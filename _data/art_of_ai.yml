@@ -1,5 +1,9 @@
 # Sidebar entries for the "The Art of AI" section.
 # Add a new guide by dropping another item here and creating the matching page.
+# Use `children:` to nest a guide under a parent topic.
 sections:
   - title: "Reconnaissance"
     url: /art-of-ai/
+    children:
+      - title: "JavaScript & Bundle Analysis"
+        url: /art-of-ai/js-bundle-analysis/

@@ -8,6 +8,10 @@ layout: default
       {% for item in site.data.art_of_ai.sections %}
         <a href="{{ item.url | relative_url }}"
            class="aoa-nav-link{% if page.url == item.url %} is-active{% endif %}">{{ item.title }}</a>
+        {% for child in item.children %}
+          <a href="{{ child.url | relative_url }}"
+             class="aoa-nav-link aoa-nav-child{% if page.url == child.url %} is-active{% endif %}">{{ child.title }}</a>
+        {% endfor %}
       {% endfor %}
     </nav>
   </aside>
