@@ -8,8 +8,7 @@ permalink: /about/
   <h1>About</h1>
 
   <p>
-    Independent security research and bug bounty hunting. Notes here are
-    write-ups, methodology, and occasional rants.
+   Independent Security Researcher focused on Bug Bounty Hunting and Offensive Security.  Here I document write-ups of interesting vulnerabilities, reconnaissance methodologies, AI-augmented    techniques, and my thoughts on modern application security.
   </p>
 
   <h2>Socials</h2>
