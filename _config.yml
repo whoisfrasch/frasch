@@ -8,6 +8,11 @@ author: frasch
 lang: en
 locale: en_US
 
+# We ship our own layouts and CSS — no Jekyll theme.
+# (Leaving this unset lets the github-pages gem inject jekyll-theme-primer,
+# whose Sass fails to compile under a non-UTF-8 build locale.)
+theme: null
+
 # Include posts dated in the future relative to build time
 future: true
 

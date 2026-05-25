@@ -2,6 +2,7 @@
 layout: art-of-ai
 title: "JavaScript & Bundle Analysis"
 date: 2026-05-26 10:00:00 +0200
+permalink: /art-of-ai/js-bundle-analysis/
 description: "The front end is the most honest documentation a target has, and it ships straight to you. How to pull endpoints, secrets, and feature flags out of a minified single-page app — and where an LLM speeds it up versus where it'll lie to you."
 ---
 
