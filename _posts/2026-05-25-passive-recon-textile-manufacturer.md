@@ -1,18 +1,16 @@
 ---
-title: "Three Criticals Without Sending a Single Payload: Passive Recon on a Listed Textile Giant"
+title: "Three Criticals Without Sending a Single Payload"
 date: 2026-05-25 12:00:00 +0200
-description: "A passive-only look at the external attack surface of a publicly traded textile manufacturer with around half a billion dollars in revenue. No probing, no exploitation — just public data, read carefully. Responsibly disclosed through the national CERT."
+description: "What the public internet already says about a publicly traded textile manufacturer with around half a billion dollars in revenue, if you read it carefully. Three critical issues, no exploitation required."
 ---
 
 # The setup
 
 The target was a publicly traded textile manufacturer. Big company: roughly half a billion dollars in annual revenue, the kind of firm with shareholders, an investor-relations page, and a supply chain that spans continents. Exactly the sort of organization you'd expect to have its external security squared away.
 
-I gave myself one rule for this look: **passive only.** No active scanning, no fuzzing, no login attempts, nothing that touches their infrastructure in a way they could call probing. Everything had to come from data that's already public, certificate transparency logs, DNS, response headers from ordinary requests, OSINT. If I couldn't find it without poking, I didn't find it.
+I never touched their infrastructure. Everything here came from data they already broadcast to the world: DNS, certificate transparency logs, the headers a server hands back to anyone who asks, a bit of OSINT. The whole thing was an exercise in reading, not poking.
 
-That constraint sounds limiting. It isn't. By the time I was done, I had three critical issues, a fistful of high-severity ones, and a clear enough picture of their internal mail infrastructure to feel uncomfortable on their behalf. None of it required a single exploit.
-
-This writeup keeps the company anonymous and leaves out the live proof-of-concept details on purpose. Everything below has been reported through the country's national CERT vulnerability disclosure program, and nothing here is a working recipe against the real host.
+That sounds limiting. It isn't. By the time I was done I had three critical issues, a fistful of high-severity ones, and a clear enough picture of their internal mail setup to feel uncomfortable on their behalf, and none of it took an exploit.
 
 ---
 
@@ -115,14 +113,12 @@ Two habits did most of the work here, and neither is technical wizardry.
 
 The first is **just reading carefully.** Every finding above came from data the company publishes to the world: DNS, certificate logs, response headers, OSINT. The skill isn't access, it's noticing. A version number in a header. A private IP where it doesn't belong. A CNAME pointing at a service that shut down in 2021.
 
-The second is **verifying before reporting.** My raw notes had at least one confidently-wrong claim in them, the DMARC mix-up. Passive recon produces a lot of plausible-looking conclusions, and a chunk of them are wrong on a second look. The version that goes into a disclosure report is the one where every concrete claim has been checked twice. A report full of false positives wastes the defender's time and burns your credibility, and credibility is the only currency you've got in this work.
+The second is **verifying before you write it down.** My raw notes had at least one confidently-wrong claim in them, the DMARC mix-up. This kind of reading produces a lot of plausible-looking conclusions, and a chunk of them fall apart on a second look. The version that leaves your desk is the one where every concrete claim has been checked twice. A report full of false positives wastes the defender's time and burns your credibility, and credibility is the only currency you've got in this work.
 
 ---
 
-# Disclosure
-
-Everything here was passive. No exploitation, no authentication attempts, no data accessed, no service disrupted. The findings were written up and submitted through the country's national CERT vulnerability disclosure program, one report per issue, highest severity first, and held confidential pending remediation. This account is deliberately anonymized and stripped of the specifics that would point at the live host, for exactly that reason.
+# What it adds up to
 
 The lesson isn't really about any one company. It's that a large, well-resourced organization can be mapped to its soft underbelly using nothing but the data it already broadcasts, and that the weak point is almost never the flashy thing. It's the WordPress box nobody migrated, the mail server nobody patched, and the DNS record nobody cleaned up.
 
-Read carefully. Verify twice. Report responsibly.
+For the record, the findings went to the right people through a proper channel and the details stay out of public view until they're fixed, which is why this account is anonymized. Beyond that: read carefully, verify twice, and aim it somewhere you're allowed to.
