@@ -6,7 +6,10 @@ title: Notes
 <section class="hero">
   <h1>{{ site.title }}</h1>
   <p class="tagline">{{ site.tagline }}</p>
-  <p class="hero-bio">Independent security research and bug bounty hunting. I find bugs, write them up, and document how I use AI for reconnaissance and analysis.</p>
+  <a class="about-panel" href="{{ '/about/' | relative_url }}">
+    <span class="about-panel-label">about me</span>
+    <span class="about-panel-arrow" aria-hidden="true">&rarr;</span>
+  </a>
   <ul class="hero-chips">
     <li>web security</li>
     <li>recon</li>
