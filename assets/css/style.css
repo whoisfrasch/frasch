@@ -255,6 +255,31 @@ code, pre, .mono {
   color: var(--fg-mute);
 }
 .aoa-nav-child:hover { color: var(--fg); }
+
+/* collapsible group */
+.aoa-group { display: flex; flex-direction: column; gap: 2px; }
+.aoa-parent { display: flex; align-items: stretch; }
+.aoa-parent .aoa-nav-link { flex: 1; }
+.aoa-toggle {
+  background: none;
+  border: none;
+  border-left: 2px solid var(--line);
+  color: var(--fg-mute);
+  cursor: pointer;
+  padding: 0 12px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 15px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  transition: color 150ms ease;
+}
+.aoa-toggle:hover { color: var(--fg); }
+.aoa-caret { display: inline-block; transition: transform 150ms ease; }
+.aoa-group.is-open .aoa-caret { transform: rotate(90deg); }
+.aoa-children { display: none; flex-direction: column; gap: 2px; }
+.aoa-group.is-open .aoa-children { display: flex; }
+
 .aoa-content {
   max-width: 760px;
   margin: 0;
@@ -275,6 +300,9 @@ code, pre, .mono {
   }
   .aoa-nav-link:hover { border-color: var(--fg-dim); }
   .aoa-nav-link.is-active { border-color: var(--fg); }
+  /* on mobile the accordion flattens: show every link as a pill */
+  .aoa-group, .aoa-parent, .aoa-children { display: contents; }
+  .aoa-toggle { display: none; }
 }
 
 /* HERO */
