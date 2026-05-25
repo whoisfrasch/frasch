@@ -256,31 +256,33 @@ code, pre, .mono {
 }
 .aoa-nav-child:hover { color: var(--fg); }
 
-/* collapsible group */
+/* collapsible group — parent row toggles its children */
 .aoa-group { display: flex; flex-direction: column; gap: 2px; }
-.aoa-parent { display: flex; align-items: stretch; }
-.aoa-parent .aoa-nav-link { flex: 1; }
-.aoa-toggle {
+.aoa-parent-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  text-align: left;
   background: none;
   border: none;
   border-left: 2px solid var(--line);
-  color: var(--fg-mute);
   cursor: pointer;
-  padding: 0 12px;
   font-family: 'JetBrains Mono', monospace;
-  font-size: 15px;
-  line-height: 1;
-  display: inline-flex;
-  align-items: center;
-  transition: color 150ms ease;
+  font-size: 13px;
+  color: var(--fg-dim);
+  padding: 8px 14px;
+  transition: color 150ms ease, border-color 150ms ease;
 }
-.aoa-toggle:hover { color: var(--fg); }
-.aoa-caret { display: inline-block; transition: transform 150ms ease; }
+.aoa-parent-btn:hover { color: var(--fg); border-left-color: var(--fg-dim); }
+.aoa-parent-btn.is-active { color: var(--fg); border-left-color: var(--fg); font-weight: 600; }
+.aoa-caret { color: var(--fg-mute); transition: transform 150ms ease; }
 .aoa-group.is-open .aoa-caret { transform: rotate(90deg); }
 .aoa-children { display: none; flex-direction: column; gap: 2px; }
 .aoa-group.is-open .aoa-children { display: flex; }
 
-.aoa-content {
+.post.aoa-content {
   max-width: 760px;
   margin: 0;
 }
@@ -300,9 +302,10 @@ code, pre, .mono {
   }
   .aoa-nav-link:hover { border-color: var(--fg-dim); }
   .aoa-nav-link.is-active { border-color: var(--fg); }
-  /* on mobile the accordion flattens: show every link as a pill */
-  .aoa-group, .aoa-parent, .aoa-children { display: contents; }
-  .aoa-toggle { display: none; }
+  /* on mobile the accordion flattens: drop the toggle, show child links as pills */
+  .aoa-group { display: contents !important; }
+  .aoa-children { display: contents !important; }
+  .aoa-parent-btn { display: none; }
 }
 
 /* HERO */
