@@ -8,17 +8,17 @@ layout: default
       {% for item in site.data.art_of_ai.sections %}
         {% if item.children %}
           {% assign open = false %}
+          {% if page.url == item.url %}{% assign open = true %}{% endif %}
           {% for child in item.children %}{% if page.url == child.url %}{% assign open = true %}{% endif %}{% endfor %}
-          {% assign in_section = open %}
-          {% if page.url == item.url %}{% assign in_section = true %}{% endif %}
           <div class="aoa-group{% if open %} is-open{% endif %}">
-            <button type="button" class="aoa-parent-btn{% if in_section %} is-active{% endif %}" aria-expanded="{% if open %}true{% else %}false{% endif %}">
-              <span>{{ item.title }}</span>
-              <span class="aoa-caret" aria-hidden="true">&rsaquo;</span>
-            </button>
-            <div class="aoa-children">
+            <div class="aoa-parent">
               <a href="{{ item.url | relative_url }}"
-                 class="aoa-nav-link aoa-nav-child{% if page.url == item.url %} is-active{% endif %}">Overview</a>
+                 class="aoa-nav-link{% if page.url == item.url %} is-active{% endif %}">{{ item.title }}</a>
+              <button type="button" class="aoa-toggle" aria-label="Toggle {{ item.title }} subtopics" aria-expanded="{% if open %}true{% else %}false{% endif %}">
+                <span class="aoa-caret" aria-hidden="true">&rsaquo;</span>
+              </button>
+            </div>
+            <div class="aoa-children">
               {% for child in item.children %}
                 <a href="{{ child.url | relative_url }}"
                    class="aoa-nav-link aoa-nav-child{% if page.url == child.url %} is-active{% endif %}">{{ child.title }}</a>
