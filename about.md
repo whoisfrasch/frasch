@@ -8,7 +8,7 @@ permalink: /about/
   <h1>About</h1>
 
   <p>
-   Independent Security Researcher focused on Bug Bounty Hunting and Offensive Security.  Here I document write-ups of interesting vulnerabilities, reconnaissance methodologies, AI-augmented    techniques, and my thoughts on modern application security.
+   Independent Security Researcher focused on Offensive Security.  Here I document write-ups of interesting vulnerabilities, reconnaissance methodologies, AI-augmented techniques, and my        thoughts on modern application security.
   </p>
 
   <h2>Socials</h2>
