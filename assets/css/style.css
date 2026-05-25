@@ -258,24 +258,20 @@ code, pre, .mono {
 
 /* collapsible group — the caret toggles the child links */
 .aoa-group { display: flex; flex-direction: column; gap: 2px; }
-.aoa-parent { display: flex; align-items: stretch; }
+.aoa-parent { display: flex; align-items: center; }
 .aoa-parent .aoa-nav-link { flex: 1; }
 .aoa-toggle {
   background: none;
   border: none;
-  border-left: 2px solid var(--line);
   color: var(--fg-mute);
   cursor: pointer;
-  padding: 0 12px;
+  padding: 6px 10px;
   display: inline-flex;
   align-items: center;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 15px;
-  line-height: 1;
   transition: color 150ms ease;
 }
 .aoa-toggle:hover { color: var(--fg); }
-.aoa-caret { display: inline-block; transition: transform 150ms ease; }
+.aoa-caret { display: block; transition: transform 200ms ease; }
 .aoa-group.is-open .aoa-caret { transform: rotate(90deg); }
 .aoa-children { display: none; flex-direction: column; gap: 2px; }
 .aoa-group.is-open .aoa-children { display: flex; }
