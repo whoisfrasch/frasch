@@ -1,0 +1,5 @@
+# Sidebar entries for the "The Art of AI" section.
+# Add a new guide by dropping another item here and creating the matching page.
+sections:
+  - title: "Reconnaissance"
+    url: /art-of-ai/
