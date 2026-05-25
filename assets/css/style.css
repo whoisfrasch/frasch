@@ -343,22 +343,6 @@ code, pre, .mono {
 }
 .about-panel-arrow { transition: transform 150ms ease; }
 .about-panel:hover .about-panel-arrow { transform: translateX(3px); }
-.hero-chips {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 24px;
-}
-.hero-chips li {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 11px;
-  color: var(--fg-dim);
-  border: 1px solid var(--line-strong);
-  border-radius: 999px;
-  padding: 4px 12px;
-  letter-spacing: 0.04em;
-}
 
 /* FEATURE CARD */
 .feature-card {
