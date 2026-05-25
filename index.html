@@ -6,7 +6,21 @@ title: Notes
 <section class="hero">
   <h1>{{ site.title }}</h1>
   <p class="tagline">{{ site.tagline }}</p>
+  <p class="hero-bio">Independent security research and bug bounty hunting. I find bugs, write them up, and document how I use AI for reconnaissance and analysis.</p>
+  <ul class="hero-chips">
+    <li>web security</li>
+    <li>recon</li>
+    <li>bug bounty</li>
+    <li>ai-assisted</li>
+  </ul>
 </section>
+
+<a class="feature-card" href="{{ '/art-of-ai/' | relative_url }}">
+  <span class="feature-tag">// guide</span>
+  <span class="feature-title">The Art of AI</span>
+  <span class="feature-desc">A field guide to using agentic models like Claude for real security work — reconnaissance, bundle analysis, and the discipline that keeps it honest.</span>
+  <span class="feature-cta">read the guide &rarr;</span>
+</a>
 
 <div class="grid-2col">
   <section class="posts-col">
@@ -18,7 +32,12 @@ title: Notes
         {% for post in site.posts limit: 10 %}
           <li class="post-item">
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <div class="post-item-body">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              {% if post.description %}
+                <p class="post-excerpt">{{ post.description | strip_html | truncate: 150 }}</p>
+              {% endif %}
+            </div>
           </li>
         {% endfor %}
       </ul>
