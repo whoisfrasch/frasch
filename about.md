@@ -8,29 +8,38 @@ permalink: /about/
   <h1>About</h1>
 
   <p>
-   Independent Security Researcher focused on Offensive Security.  Here I document write-ups of interesting vulnerabilities, reconnaissance methodologies, AI-augmented techniques, and my        thoughts on modern application security.
+    Independent Security Researcher focused on Offensive Security. Here I
+    document write-ups of interesting vulnerabilities, reconnaissance
+    methodologies, AI-augmented techniques, and my thoughts on modern
+    application security.
   </p>
 
   <p>
-    My work spans web and application security, configuration and
-    infrastructure review, and the reconnaissance that ties it together —
-    finding the weaknesses, exposed surfaces, and forgotten edges that turn
-    into real issues, then writing them up clearly and reproducibly. A growing
-    part of it runs through AI, used as a fast analyst whose every claim I
-    verify by hand rather than as an oracle.
+    The work runs across web and application security and the infrastructure
+    underneath, and it increasingly leans on AI — which I treat as a sharp,
+    fast analyst rather than an oracle, and check before I trust. When I find
+    something real, I see it through to a fix; I've worked with national CERTs
+    on coordinated disclosure.
   </p>
 
   <p>
-    I've worked successfully with national CERTs on coordinated vulnerability
-    disclosure: reporting real issues through official channels and seeing
-    them through to remediation. I take scope and responsible disclosure
-    seriously — verify first, minimise impact, report through the proper
-    channel, and keep the details quiet until things are fixed.
+    Most of what I find isn't exotic. It's the box nobody migrated, the config
+    nobody revisited, the data a company quietly hands out without realising.
+    The interesting part is rarely a single bug — it's connecting the small,
+    overlooked things into something that actually matters, and doing it
+    carefully enough that the report holds up.
   </p>
 
   <p>
-    If you want to reach me about a finding or anything else, the links below
-    are the best way.
+    I'm a believer in learning in the open. The notes here aren't polished
+    after the fact for an audience; they're the real working process —
+    including the dead ends, the things I got wrong on the first pass, and the
+    habits that keep me from fooling myself. If any of it saves you an
+    afternoon, that's the point.
+  </p>
+
+  <p>
+    If you want to reach me, the links below are the best way.
   </p>
 
   <h2>Socials</h2>
