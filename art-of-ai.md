@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "The Art of AI Recon"
+layout: art-of-ai
+title: "AI-Assisted Reconnaissance"
 date: 2026-05-24 10:00:00 +0200
 permalink: /art-of-ai/
 description: "How I actually use Claude for red team reconnaissance — not for generating nmap commands, but for the slow, judgment-heavy intelligence work that eats days of an engagement."

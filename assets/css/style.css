@@ -204,6 +204,73 @@ code, pre, .mono {
   padding: 80px 28px 120px;
 }
 
+/* ============================================================
+   THE ART OF AI — sidebar layout
+   ============================================================ */
+.aoa-wrap {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 56px;
+  align-items: start;
+}
+.aoa-sidebar {
+  position: sticky;
+  top: 96px;
+}
+.aoa-sidebar-title {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--fg-mute);
+  margin-bottom: 16px;
+}
+.aoa-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.aoa-nav-link {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  color: var(--fg-dim);
+  padding: 8px 14px;
+  border-left: 2px solid var(--line);
+  border-bottom: none;
+  transition: color 150ms ease, border-color 150ms ease;
+}
+.aoa-nav-link:hover {
+  color: var(--fg);
+  border-left-color: var(--fg-dim);
+  border-bottom: none;
+}
+.aoa-nav-link.is-active {
+  color: var(--fg);
+  font-weight: 600;
+  border-left-color: var(--fg);
+}
+.aoa-content {
+  max-width: 760px;
+  margin: 0;
+}
+@media (max-width: 820px) {
+  .aoa-wrap { grid-template-columns: 1fr; gap: 32px; }
+  .aoa-sidebar {
+    position: static;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--line);
+  }
+  .aoa-nav { flex-direction: row; flex-wrap: wrap; gap: 6px; }
+  .aoa-nav-link {
+    border-left: none;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 14px;
+  }
+  .aoa-nav-link:hover { border-color: var(--fg-dim); }
+  .aoa-nav-link.is-active { border-color: var(--fg); }
+}
+
 /* HERO */
 .hero {
   margin-bottom: 80px;
