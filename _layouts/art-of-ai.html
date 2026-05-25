@@ -6,12 +6,28 @@ layout: default
     <p class="aoa-sidebar-title">// the art of ai</p>
     <nav class="aoa-nav">
       {% for item in site.data.art_of_ai.sections %}
-        <a href="{{ item.url | relative_url }}"
-           class="aoa-nav-link{% if page.url == item.url %} is-active{% endif %}">{{ item.title }}</a>
-        {% for child in item.children %}
-          <a href="{{ child.url | relative_url }}"
-             class="aoa-nav-link aoa-nav-child{% if page.url == child.url %} is-active{% endif %}">{{ child.title }}</a>
-        {% endfor %}
+        {% if item.children %}
+          {% assign open = false %}
+          {% for child in item.children %}{% if page.url == child.url %}{% assign open = true %}{% endif %}{% endfor %}
+          <div class="aoa-group{% if open %} is-open{% endif %}">
+            <div class="aoa-parent">
+              <a href="{{ item.url | relative_url }}"
+                 class="aoa-nav-link{% if page.url == item.url %} is-active{% endif %}">{{ item.title }}</a>
+              <button type="button" class="aoa-toggle" aria-label="Toggle {{ item.title }} subtopics" aria-expanded="{% if open %}true{% else %}false{% endif %}">
+                <span class="aoa-caret">&rsaquo;</span>
+              </button>
+            </div>
+            <div class="aoa-children">
+              {% for child in item.children %}
+                <a href="{{ child.url | relative_url }}"
+                   class="aoa-nav-link aoa-nav-child{% if page.url == child.url %} is-active{% endif %}">{{ child.title }}</a>
+              {% endfor %}
+            </div>
+          </div>
+        {% else %}
+          <a href="{{ item.url | relative_url }}"
+             class="aoa-nav-link{% if page.url == item.url %} is-active{% endif %}">{{ item.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
   </aside>
@@ -34,3 +50,5 @@ layout: default
     </div>
   </article>
 </div>
+
+<script src="{{ '/assets/js/art-of-ai.js' | relative_url }}" defer></script>
