@@ -322,13 +322,27 @@ code, pre, .mono {
   max-width: 56ch;
   line-height: 1.5;
 }
-.hero-bio {
-  margin-top: 16px;
+.about-panel {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 22px;
+  padding: 9px 16px;
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
   color: var(--fg-dim);
-  font-size: 15px;
-  max-width: 62ch;
-  line-height: 1.6;
+  text-decoration: none;
+  transition: border-color 150ms ease, color 150ms ease, transform 150ms ease;
 }
+.about-panel:hover {
+  border-color: var(--fg);
+  color: var(--fg);
+  transform: translateY(-1px);
+}
+.about-panel-arrow { transition: transform 150ms ease; }
+.about-panel:hover .about-panel-arrow { transform: translateX(3px); }
 .hero-chips {
   list-style: none;
   display: flex;
