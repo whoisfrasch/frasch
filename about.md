@@ -12,11 +12,12 @@ permalink: /about/
   </p>
 
   <p>
-    Most of what I do is reconnaissance and analysis: mapping an
-    organisation's external attack surface from public data, spotting the
-    misconfigurations and forgotten edges, and turning that into clear,
-    reproducible reports. A growing part of that runs through AI — not as an
-    oracle, but as a fast analyst whose every claim I verify by hand.
+    My work spans web and application security, configuration and
+    infrastructure review, and the reconnaissance that ties it together —
+    finding the weaknesses, exposed surfaces, and forgotten edges that turn
+    into real issues, then writing them up clearly and reproducibly. A growing
+    part of it runs through AI, used as a fast analyst whose every claim I
+    verify by hand rather than as an oracle.
   </p>
 
   <p>
