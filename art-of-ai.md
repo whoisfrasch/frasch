@@ -129,30 +129,6 @@ What to avoid: the role-play opener ("you are an elite operator") gives you scre
 
 ---
 
-## What a two-week external recon actually looks like
-
-To make it concrete, here's roughly how an engagement runs.
-
-**Days 1–2, collection, no AI yet.** Everything in parallel: subdomain enumeration, CT logs, DNS history, ASN data, cloud assets, 18 months of job postings, LinkedIn, public GitHub, six months of news and press, SEC and patent filings. It all gets structured and saved locally. The model sees none of it yet.
-
-**Day 3, first pass.** Feed it the subdomain and CT data, get back a categorized attack surface, roughly 30 prioritized subdomains with reasons. Separately, feed the job postings and get a technology inventory. Verify a sample of each and save them as artifacts.
-
-**Days 4–5, people.** Feed the employee dataset with the objective, get a ranked list of high-value individuals. For the top five, collect writing samples and profile each one's style. Cross-check everyone against the breach corpus.
-
-**Day 6, infrastructure.** For the priority subdomains, gather passive HTTP metadata, feed it alongside the tech inventory, and ask for a specific architecture hypothesis per subdomain. Check it against the stack you inferred from the job posts for consistency.
-
-**Day 7, pretexts.** Pull the last 90 days of corporate comms and the top persona profiles, generate a few pretext variants per target, run them through the realism passes.
-
-**Days 8–10, verify and prep.** The model fades out. This is operator work: confirm findings, register domains, stand up tracking and delivery.
-
-**Days 11–14, execution.** Live phase. The model is out of it entirely.
-
-**After, reporting.** It comes back to help with structure and prose, working only from your notes. It never sees the operational details, and every finding traces back to something you verified, not something it claimed.
-
-Notice the shape: AI front-loads the slow analytical work, then gets out of the way the moment things go live.
-
----
-
 ## Where it lies to you
 
 The stakes on a bad fact are higher here than in most contexts. Acting on something the model invented means tripping detection, burning a pretext with "internal vocabulary" that doesn't exist, chasing the wrong infrastructure, or handing a client a finding that isn't real. Any of those costs you.
