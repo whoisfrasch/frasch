@@ -9,6 +9,9 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
 end
 
+# CI: internal link/image checking on the built site
+gem "html-proofer", "~> 5.0", group: :test
+
 # Windows / JRuby compatibility (harmless on Linux)
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.1", platforms: [:mingw, :mswin, :x64_mingw]

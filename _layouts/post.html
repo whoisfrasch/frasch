@@ -1,40 +1,56 @@
 ---
 layout: default
 ---
-<article class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
-      <span class="dot">·</span>
-      <span>{% include reading_time.html content=content %}</span>
-    </p>
-    <h1>{{ page.title }}</h1>
-    {% if page.description %}
-      <p class="post-lede">{{ page.description }}</p>
-    {% endif %}
-  </header>
+<div class="reading-progress" aria-hidden="true"></div>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+<div class="post-wrap">
+  <article class="post">
+    <header class="post-header">
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+        <span class="dot">·</span>
+        <span>{% include reading_time.html content=content %}</span>
+      </p>
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}
+        <p class="post-lede">{{ page.description }}</p>
+      {% endif %}
+      {% if page.tags and page.tags.size > 0 %}
+        <div class="post-tags">
+          {% for tag in page.tags %}
+            <a class="tag-pill" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </header>
 
-  <footer class="post-footer">
-    {% if page.previous or page.next %}
-      <nav class="post-nav" aria-label="Post navigation">
-        {% if page.previous %}
-          <a class="post-nav-link prev" href="{{ page.previous.url | relative_url }}">
-            <span class="post-nav-label">← older</span>
-            <span class="post-nav-title">{{ page.previous.title }}</span>
-          </a>
-        {% endif %}
-        {% if page.next %}
-          <a class="post-nav-link next" href="{{ page.next.url | relative_url }}">
-            <span class="post-nav-label">newer →</span>
-            <span class="post-nav-title">{{ page.next.title }}</span>
-          </a>
-        {% endif %}
-      </nav>
-    {% endif %}
-    <a href="{{ '/' | relative_url }}" class="back-link">← back to notes</a>
-  </footer>
-</article>
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+    <footer class="post-footer">
+      {% if page.previous or page.next %}
+        <nav class="post-nav" aria-label="Post navigation">
+          {% if page.previous %}
+            <a class="post-nav-link prev" href="{{ page.previous.url | relative_url }}">
+              <span class="post-nav-label">← older</span>
+              <span class="post-nav-title">{{ page.previous.title }}</span>
+            </a>
+          {% endif %}
+          {% if page.next %}
+            <a class="post-nav-link next" href="{{ page.next.url | relative_url }}">
+              <span class="post-nav-label">newer →</span>
+              <span class="post-nav-title">{{ page.next.title }}</span>
+            </a>
+          {% endif %}
+        </nav>
+      {% endif %}
+      <a href="{{ '/' | relative_url }}" class="back-link">← back to notes</a>
+    </footer>
+  </article>
+
+  <aside class="post-toc" aria-label="Table of contents">
+    <p class="post-toc-title">// on this page</p>
+    <ol data-toc></ol>
+  </aside>
+</div>

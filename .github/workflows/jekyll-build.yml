@@ -22,3 +22,11 @@ jobs:
           bundle exec ruby "$jekyll_bin" build --strict_front_matter
         env:
           JEKYLL_ENV: production
+
+      - name: Check internal links
+        run: |
+          bundle exec htmlproofer ./_site \
+            --disable-external \
+            --swap-urls '^/frasch/:/' \
+            --no-enforce-https \
+            --ignore-missing-alt
