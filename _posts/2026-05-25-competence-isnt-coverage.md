@@ -2,6 +2,7 @@
 title: "Competence Isn't Coverage"
 date: 2026-05-25 15:00:00 +0200
 description: "A look at a company that was genuinely good at security — and leaked anyway, through the edges its competence never reached. Names, numbers, and specifics are stripped on purpose; the pattern is the point."
+tags: [recon, osint, attack-surface]
 ---
 
 # The interesting kind of target

@@ -1,0 +1,34 @@
+name: Refresh news feed
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Fetch feeds
+        run: ruby scripts/fetch_news.rb
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet _data/news.json; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/news.json
+          git commit -m "Refresh security news feed"
+          git push

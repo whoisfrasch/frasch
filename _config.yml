@@ -3,8 +3,11 @@ tagline: Security Research & AI-Assisted Offensive Security
 description: >-
   Notes, write-ups and research on web security, vulnerability hunting,
   and bug bounty work.
-url: "https://frasch.github.io"
+# Production: GitHub Pages project site
+url: "https://whoisfrasch.github.io"
+baseurl: "/frasch"
 author: frasch
+github_username: whoisfrasch
 lang: en
 locale: en_US
 
@@ -38,7 +41,7 @@ twitter:
 social:
   name: frasch
   links:
-    - https://github.com/frasch
+    - https://github.com/whoisfrasch
 
 # Exclude from build
 exclude:
@@ -48,9 +51,14 @@ exclude:
   - LICENSE
   - .gitignore
   - vendor
+  - scripts
 
 # Default front-matter
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/og-default.png
   - scope:
       path: ""
       type: "posts"
