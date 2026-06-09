@@ -1,0 +1,17 @@
+---
+layout: default
+title: "404 — not found"
+permalink: /404.html
+sitemap: false
+---
+
+<div class="error-page">
+  <pre class="error-code"><span class="dim">$</span> curl -sI {{ site.url }}/…
+<span class="dim">HTTP/2</span> 404
+<span class="dim">content-type:</span> text/nothing</pre>
+  <p class="error-msg">This page doesn't exist — moved, renamed, or it never was. Recon dead end.</p>
+  <a class="about-panel" href="{{ '/' | relative_url }}">
+    <span class="about-panel-label">back to notes</span>
+    <span class="about-panel-arrow" aria-hidden="true">&rarr;</span>
+  </a>
+</div>

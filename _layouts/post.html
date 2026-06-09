@@ -19,6 +19,22 @@ layout: default
   </div>
 
   <footer class="post-footer">
+    {% if page.previous or page.next %}
+      <nav class="post-nav" aria-label="Post navigation">
+        {% if page.previous %}
+          <a class="post-nav-link prev" href="{{ page.previous.url | relative_url }}">
+            <span class="post-nav-label">← older</span>
+            <span class="post-nav-title">{{ page.previous.title }}</span>
+          </a>
+        {% endif %}
+        {% if page.next %}
+          <a class="post-nav-link next" href="{{ page.next.url | relative_url }}">
+            <span class="post-nav-label">newer →</span>
+            <span class="post-nav-title">{{ page.next.title }}</span>
+          </a>
+        {% endif %}
+      </nav>
+    {% endif %}
     <a href="{{ '/' | relative_url }}" class="back-link">← back to notes</a>
   </footer>
 </article>

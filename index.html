@@ -4,6 +4,7 @@ title: Notes
 ---
 
 <section class="hero">
+  <p class="hero-kicker"><span class="live-dot" aria-hidden="true"></span> security research // field notes</p>
   <h1>{{ site.title }}</h1>
   <p class="tagline">{{ site.tagline }}</p>
   <a class="about-panel" href="{{ '/about/' | relative_url }}">
@@ -23,18 +24,20 @@ title: Notes
   <section class="posts-col">
     <h2 class="col-title">// notes</h2>
     {% if site.posts.size == 0 %}
-      <p class="empty">Noch keine Posts. Leg los in <code>_posts/</code>.</p>
+      <p class="empty">No posts yet. Start one in <code>_posts/</code>.</p>
     {% else %}
       <ul class="post-list">
         {% for post in site.posts limit: 10 %}
           <li class="post-item">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-            <div class="post-item-body">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              {% if post.description %}
-                <p class="post-excerpt">{{ post.description | strip_html | truncate: 150 }}</p>
-              {% endif %}
-            </div>
+            <a class="post-item-link" href="{{ post.url | relative_url }}">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+              <span class="post-item-body">
+                <span class="post-item-title">{{ post.title }}</span>
+                {% if post.description %}
+                  <span class="post-excerpt">{{ post.description | strip_html | truncate: 150 }}</span>
+                {% endif %}
+              </span>
+            </a>
           </li>
         {% endfor %}
       </ul>
@@ -42,92 +45,19 @@ title: Notes
   </section>
 
   <aside class="feed-col">
-    <style>
-      .rss-news .rss-title { font-family: 'JetBrains Mono', monospace; font-size: 11px; font-weight: 500; color: var(--fg-mute); letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 24px; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
-      .rss-news .rss-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--fg); display: inline-block; animation: rss-pulse 2.4s infinite; }
-      @keyframes rss-pulse { 0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--fg) 50%, transparent); } 70% { box-shadow: 0 0 0 8px color-mix(in srgb, var(--fg) 0%, transparent); } 100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--fg) 0%, transparent); } }
-      .rss-news .rss-sub { font-size: 13px; color: var(--fg-dim); margin-top: -8px; margin-bottom: 20px; line-height: 1.5; }
-      .rss-news .rss-feed { display: flex; flex-direction: column; gap: 12px; }
-      .rss-news .rss-item { display: block; padding: 12px 14px; border: 1px solid var(--line); border-radius: 6px; text-decoration: none; color: inherit; transition: border-color 200ms ease, background 200ms ease, transform 200ms ease; }
-      .rss-news .rss-item:hover { border-color: var(--fg); background: var(--bg-2); transform: translateY(-2px); }
-      .rss-news .rss-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
-      .rss-news .rss-src { color: var(--fg); letter-spacing: 0.04em; }
-      .rss-news .rss-src::before { content: "# "; color: var(--fg-mute); }
-      .rss-news .rss-date { color: var(--fg-mute); margin-left: auto; }
-      .rss-news .rss-headline { font-size: 13px; color: var(--fg); line-height: 1.5; }
-      .rss-news .rss-loading, .rss-news .rss-error { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--fg-dim); padding: 16px; text-align: center; border: 1px dashed var(--line-strong); border-radius: 4px; letter-spacing: 0.04em; }
-      .rss-news .rss-source { margin-top: 18px; font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--fg-mute); letter-spacing: 0.04em; }
-    </style>
-
-    <div class="rss-news">
-      <h2 class="rss-title">
-        <span>// security news</span>
-        <span class="rss-dot" aria-hidden="true"></span>
-      </h2>
-      <p class="rss-sub">Latest headlines from a few security sources, newest first.</p>
-      <div id="rss-feed" class="rss-feed">
-        <div class="rss-loading">fetching latest headlines...</div>
-      </div>
-      <p class="rss-source">via rss2json.com</p>
+    <h2 class="col-title">
+      <span>// security news</span>
+      <span class="live-dot" aria-hidden="true"></span>
+    </h2>
+    <p class="col-sub">Latest headlines from a few security sources, newest first.</p>
+    <div id="rss-feed" class="news-feed" aria-busy="true" aria-live="polite">
+      <div class="news-skeleton" aria-hidden="true"></div>
+      <div class="news-skeleton" aria-hidden="true"></div>
+      <div class="news-skeleton" aria-hidden="true"></div>
+      <div class="news-skeleton" aria-hidden="true"></div>
     </div>
+    <p class="col-source">via rss2json.com</p>
 
-    <script>
-      (function () {
-        // --- edit your sources here: add or remove freely ---
-        var FEEDS = [
-          { name: "the hacker news", url: "https://feeds.feedburner.com/TheHackersNews" },
-          { name: "daily swig",      url: "https://portswigger.net/daily-swig/rss" },
-          { name: "project zero",    url: "https://googleprojectzero.blogspot.com/feeds/posts/default" }
-        ];
-        var MAX_ITEMS = 8;
-        var API = "https://api.rss2json.com/v1/api.json?count=10&rss_url=";
-
-        var container = document.getElementById("rss-feed");
-        if (!container) return;
-
-        function esc(s) {
-          return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
-            return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
-          });
-        }
-        function fmtDate(d) {
-          var t = new Date(d);
-          return isNaN(t) ? "" : t.toISOString().slice(0, 10);
-        }
-
-        function fetchFeed(feed) {
-          return fetch(API + encodeURIComponent(feed.url))
-            .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
-            .then(function (data) {
-              if (!data || data.status !== "ok" || !data.items) return [];
-              return data.items.map(function (it) {
-                return { source: feed.name, title: it.title, link: it.link, date: it.pubDate };
-              });
-            })
-            .catch(function () { return []; }); // per-feed fallback: just skip it
-        }
-
-        Promise.all(FEEDS.map(fetchFeed)).then(function (results) {
-          var items = [].concat.apply([], results).filter(function (i) { return i.title && i.link; });
-          items.sort(function (a, b) { return new Date(b.date) - new Date(a.date); });
-          items = items.slice(0, MAX_ITEMS);
-
-          if (items.length === 0) {
-            container.innerHTML = '<div class="rss-error">couldn\'t reach the feeds right now. try again later.</div>';
-            return;
-          }
-
-          container.innerHTML = items.map(function (i) {
-            return '<a class="rss-item" href="' + esc(i.link) + '" target="_blank" rel="noopener noreferrer">' +
-                     '<div class="rss-meta">' +
-                       '<span class="rss-src">' + esc(i.source) + '</span>' +
-                       '<span class="rss-date">' + esc(fmtDate(i.date)) + '</span>' +
-                     '</div>' +
-                     '<div class="rss-headline">' + esc(i.title) + '</div>' +
-                   '</a>';
-          }).join("");
-        });
-      })();
-    </script>
+    <script src="{{ '/assets/js/news.js' | relative_url }}" defer></script>
   </aside>
 </div>
