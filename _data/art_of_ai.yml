@@ -7,3 +7,5 @@ sections:
     children:
       - title: "JavaScript & Bundle Analysis"
         url: /art-of-ai/js-bundle-analysis/
+  - title: "Agentic Workflows"
+    url: /art-of-ai/agentic-workflows/
