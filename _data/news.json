@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-10T10:35:35Z",
+  "updated": "2026-06-10T16:10:49Z",
   "items": [
     {
-      "source": "bleepingcomputer",
-      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-      "date": "2026-06-10T09:57:33Z"
+      "source": "the hacker news",
+      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+      "date": "2026-06-10T15:10:59Z"
     },
     {
       "source": "the hacker news",
-      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
-      "date": "2026-06-10T07:37:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
-      "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
-      "date": "2026-06-10T07:02:08Z"
+      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+      "date": "2026-06-10T15:00:59Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-      "date": "2026-06-10T06:26:28Z"
+      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+      "date": "2026-06-10T15:00:00Z"
     },
     {
       "source": "the hacker news",
-      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
-      "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
-      "date": "2026-06-10T05:22:01Z"
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+      "date": "2026-06-10T14:44:29Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "date": "2026-06-10T14:05:15Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "date": "2026-06-10T13:44:19Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "date": "2026-06-10T11:33:32Z"
     },
     {
       "source": "the hacker news",
-      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
-      "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
-      "date": "2026-06-10T05:08:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
-      "date": "2026-06-10T02:03:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-      "date": "2026-06-09T23:11:18Z"
+      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
+      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
+      "date": "2026-06-10T10:27:49Z"
     }
   ]
 }
