@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-10T16:10:49Z",
+  "updated": "2026-06-10T20:47:45Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "date": "2026-06-10T20:27:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "date": "2026-06-10T19:41:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "date": "2026-06-10T18:31:57Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "date": "2026-06-10T16:08:42Z"
+    },
     {
       "source": "the hacker news",
       "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
@@ -24,30 +48,6 @@
       "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
       "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
       "date": "2026-06-10T14:44:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The 5 Best Practices for Secure Identity Verification",
-      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-      "date": "2026-06-10T14:05:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "date": "2026-06-10T13:44:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "date": "2026-06-10T11:33:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
-      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
-      "date": "2026-06-10T10:27:49Z"
     }
   ]
 }
