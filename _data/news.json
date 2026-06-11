@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-11T16:31:27Z",
+  "updated": "2026-06-11T20:37:36Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "date": "2026-06-11T19:39:53Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "date": "2026-06-11T17:46:32Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "date": "2026-06-11T17:43:52Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "date": "2026-06-11T16:50:47Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
@@ -21,33 +45,9 @@
     },
     {
       "source": "the hacker news",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
       "date": "2026-06-11T13:20:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "date": "2026-06-11T12:52:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "date": "2026-06-11T12:46:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-      "date": "2026-06-11T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "date": "2026-06-11T09:45:58Z"
     }
   ]
 }
