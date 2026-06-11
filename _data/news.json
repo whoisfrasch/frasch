@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-11T05:00:57Z",
+  "updated": "2026-06-11T10:59:57Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "date": "2026-06-11T09:45:58Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "date": "2026-06-11T08:44:22Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "date": "2026-06-11T07:27:53Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+      "date": "2026-06-11T06:23:03Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "date": "2026-06-11T06:20:22Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
@@ -18,36 +48,6 @@
       "title": "GitHub announces npm security changes to tackle supply-chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
       "date": "2026-06-10T19:41:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "date": "2026-06-10T18:31:57Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-      "date": "2026-06-10T16:08:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-      "date": "2026-06-10T15:10:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
-      "date": "2026-06-10T15:00:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "date": "2026-06-10T15:00:00Z"
     }
   ]
 }
