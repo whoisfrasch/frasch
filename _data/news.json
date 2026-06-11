@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-11T10:59:57Z",
+  "updated": "2026-06-11T16:31:27Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+      "date": "2026-06-11T15:55:41Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "date": "2026-06-11T14:00:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+      "date": "2026-06-11T13:26:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+      "date": "2026-06-11T13:20:41Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Coupang hit with record $409 million data breach fine in Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+      "date": "2026-06-11T12:52:41Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "date": "2026-06-11T12:46:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+      "date": "2026-06-11T11:30:00Z"
+    },
     {
       "source": "the hacker news",
       "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
       "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
       "date": "2026-06-11T09:45:58Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "date": "2026-06-11T08:44:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "date": "2026-06-11T07:27:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "date": "2026-06-11T06:23:03Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "date": "2026-06-11T06:20:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-      "date": "2026-06-10T21:23:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-      "date": "2026-06-10T20:27:08Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-      "date": "2026-06-10T19:41:44Z"
     }
   ]
 }
