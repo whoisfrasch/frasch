@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-12T15:42:57Z",
+  "updated": "2026-06-12T20:28:42Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "date": "2026-06-12T19:33:32Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "date": "2026-06-12T19:24:50Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "date": "2026-06-12T18:59:32Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "date": "2026-06-12T18:19:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "date": "2026-06-12T18:17:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "date": "2026-06-12T17:54:28Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "date": "2026-06-12T17:03:55Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
       "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
       "date": "2026-06-12T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "date": "2026-06-12T12:04:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "date": "2026-06-12T11:44:58Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "date": "2026-06-12T11:00:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "date": "2026-06-12T10:13:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "date": "2026-06-12T09:50:36Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-      "date": "2026-06-12T08:52:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "date": "2026-06-12T08:26:55Z"
     }
   ]
 }
