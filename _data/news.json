@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-13T09:37:16Z",
+  "updated": "2026-06-13T14:29:30Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "date": "2026-06-13T14:06:42Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "date": "2026-06-13T13:23:03Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+      "date": "2026-06-13T10:01:32Z"
+    },
     {
       "source": "the hacker news",
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -30,24 +48,6 @@
       "title": "phpBB forum fixes auth bypass bug lurking for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
       "date": "2026-06-12T18:19:34Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-      "date": "2026-06-12T18:17:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "date": "2026-06-12T17:54:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "date": "2026-06-12T17:03:55Z"
     }
   ]
 }
