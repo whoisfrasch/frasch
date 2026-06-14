@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-13T19:55:56Z",
+  "updated": "2026-06-14T05:11:17Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "date": "2026-06-13T20:53:13Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
@@ -42,12 +48,6 @@
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
       "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
       "date": "2026-06-12T18:59:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "date": "2026-06-12T18:19:34Z"
     }
   ]
 }
