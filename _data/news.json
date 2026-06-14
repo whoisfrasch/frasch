@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-14T14:31:45Z",
+  "updated": "2026-06-14T20:00:09Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+      "date": "2026-06-14T14:36:23Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Ex-school district employee jailed for hacks on former employer",
@@ -42,12 +48,6 @@
       "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
       "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
       "date": "2026-06-12T19:33:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "date": "2026-06-12T18:59:32Z"
     }
   ]
 }
