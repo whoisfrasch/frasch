@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-15T12:44:38Z",
+  "updated": "2026-06-15T21:25:57Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "date": "2026-06-15T12:38:55Z"
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "date": "2026-06-15T20:06:52Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+      "date": "2026-06-15T19:44:06Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+      "date": "2026-06-15T19:32:52Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "date": "2026-06-15T12:12:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
-      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-      "date": "2026-06-15T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-      "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "date": "2026-06-15T11:07:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-      "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-      "date": "2026-06-15T09:59:38Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
-      "link": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html",
-      "date": "2026-06-15T06:30:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
-      "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
-      "date": "2026-06-15T06:17:32Z"
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "date": "2026-06-15T17:37:07Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "date": "2026-06-14T14:36:23Z"
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "date": "2026-06-15T17:12:42Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "date": "2026-06-15T16:39:01Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "date": "2026-06-15T16:37:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
+      "date": "2026-06-15T15:30:23Z"
     }
   ]
 }
