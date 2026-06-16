@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-15T21:25:57Z",
+  "updated": "2026-06-16T05:36:19Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "date": "2026-06-15T21:56:55Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
@@ -42,12 +48,6 @@
       "title": "Council of Europe investigates ShinyHunters data breach claims",
       "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
       "date": "2026-06-15T16:37:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "date": "2026-06-15T15:30:23Z"
     }
   ]
 }
