@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-16T21:21:00Z",
+  "updated": "2026-06-17T05:19:00Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "date": "2026-06-16T21:54:50Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
@@ -42,12 +48,6 @@
       "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
       "date": "2026-06-16T13:42:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "date": "2026-06-16T13:10:17Z"
     }
   ]
 }
