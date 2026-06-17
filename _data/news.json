@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-17T05:19:00Z",
+  "updated": "2026-06-17T11:18:57Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "The Top 10 Attack Surface Exposures in 2026",
+      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+      "date": "2026-06-17T10:30:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+      "date": "2026-06-17T10:09:24Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "date": "2026-06-17T09:38:46Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "date": "2026-06-17T08:32:29Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+      "date": "2026-06-17T07:38:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "date": "2026-06-17T07:07:56Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "date": "2026-06-17T05:50:46Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "date": "2026-06-16T21:54:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "date": "2026-06-16T20:04:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-      "date": "2026-06-16T19:05:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
-      "date": "2026-06-16T18:27:55Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-      "date": "2026-06-16T17:41:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "UK to require ID or face scan before you can make social media accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
-      "date": "2026-06-16T14:38:49Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
-      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
-      "date": "2026-06-16T14:17:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
-      "date": "2026-06-16T13:42:19Z"
     }
   ]
 }
