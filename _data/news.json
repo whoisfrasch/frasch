@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-17T11:18:57Z",
+  "updated": "2026-06-17T16:07:31Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "date": "2026-06-17T15:12:57Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "date": "2026-06-17T14:00:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "date": "2026-06-17T13:51:58Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "date": "2026-06-17T13:12:45Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "date": "2026-06-17T11:58:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "date": "2026-06-17T11:54:21Z"
+    },
     {
       "source": "the hacker news",
       "title": "The Top 10 Attack Surface Exposures in 2026",
@@ -12,42 +48,6 @@
       "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
       "date": "2026-06-17T10:09:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "date": "2026-06-17T09:38:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "date": "2026-06-17T08:32:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "date": "2026-06-17T07:38:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "date": "2026-06-17T07:07:56Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "date": "2026-06-17T05:50:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "date": "2026-06-16T21:54:50Z"
     }
   ]
 }
