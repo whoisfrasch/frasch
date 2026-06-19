@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-18T20:40:02Z",
+  "updated": "2026-06-19T05:27:41Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "date": "2026-06-18T22:31:52Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
@@ -42,12 +48,6 @@
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
       "date": "2026-06-18T14:19:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "date": "2026-06-18T14:12:48Z"
     }
   ]
 }
