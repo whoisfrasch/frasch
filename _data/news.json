@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-19T05:27:41Z",
+  "updated": "2026-06-19T10:58:42Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "date": "2026-06-19T10:39:58Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+      "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+      "date": "2026-06-19T09:03:57Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "date": "2026-06-19T08:44:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "date": "2026-06-19T06:47:55Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "date": "2026-06-19T06:36:09Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
@@ -18,36 +48,6 @@
       "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
       "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
       "date": "2026-06-18T17:32:14Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "date": "2026-06-18T16:20:06Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "date": "2026-06-18T15:33:49Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "date": "2026-06-18T15:27:54Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "date": "2026-06-18T14:30:42Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "date": "2026-06-18T14:19:50Z"
     }
   ]
 }
