@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-20T14:33:43Z",
+  "updated": "2026-06-20T19:58:15Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "date": "2026-06-20T15:23:46Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
@@ -42,12 +48,6 @@
       "title": "Texas govt data breach exposes over 3 million driver’s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
       "date": "2026-06-19T16:12:41Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "date": "2026-06-19T15:30:47Z"
     }
   ]
 }
