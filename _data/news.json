@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-19T20:05:05Z",
+  "updated": "2026-06-20T04:42:34Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+      "date": "2026-06-19T22:31:04Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "date": "2026-06-19T20:25:02Z"
+    },
     {
       "source": "the hacker news",
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
@@ -36,18 +48,6 @@
       "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
       "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
       "date": "2026-06-19T14:00:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "date": "2026-06-19T13:10:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "date": "2026-06-19T12:12:20Z"
     }
   ]
 }
