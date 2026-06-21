@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-21T10:06:58Z",
+  "updated": "2026-06-21T14:34:39Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "date": "2026-06-21T14:14:22Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
@@ -42,12 +48,6 @@
       "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
       "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
       "date": "2026-06-19T18:33:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "date": "2026-06-19T16:12:41Z"
     }
   ]
 }
