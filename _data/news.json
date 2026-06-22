@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-22T12:27:44Z",
+  "updated": "2026-06-22T21:15:24Z",
   "items": [
     {
-      "source": "the hacker news",
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "date": "2026-06-22T11:58:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "date": "2026-06-22T10:55:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "date": "2026-06-22T09:11:37Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "date": "2026-06-22T06:57:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "date": "2026-06-22T06:06:53Z"
+      "source": "bleepingcomputer",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "date": "2026-06-22T21:05:01Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "date": "2026-06-21T14:14:22Z"
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "date": "2026-06-22T20:01:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "date": "2026-06-22T18:00:48Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "date": "2026-06-20T15:23:46Z"
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "date": "2026-06-22T17:41:31Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "date": "2026-06-20T14:09:19Z"
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "date": "2026-06-22T17:28:57Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "date": "2026-06-22T16:13:28Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "date": "2026-06-22T14:29:46Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "date": "2026-06-22T14:05:15Z"
     }
   ]
 }
