@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-22T05:33:25Z",
+  "updated": "2026-06-22T12:27:44Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "date": "2026-06-22T11:58:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+      "date": "2026-06-22T10:55:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
+      "date": "2026-06-22T09:11:37Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
+      "date": "2026-06-22T06:57:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+      "date": "2026-06-22T06:06:53Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
@@ -18,36 +48,6 @@
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
       "date": "2026-06-20T14:09:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-      "date": "2026-06-20T09:56:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "date": "2026-06-19T22:31:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "date": "2026-06-19T20:25:02Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-      "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-      "date": "2026-06-19T18:37:41Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "date": "2026-06-19T18:33:07Z"
     }
   ]
 }
