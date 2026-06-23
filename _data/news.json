@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-23T10:04:51Z",
+  "updated": "2026-06-23T15:26:41Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "date": "2026-06-23T14:22:03Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "date": "2026-06-23T14:01:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "date": "2026-06-23T13:58:25Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "date": "2026-06-23T12:12:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "date": "2026-06-23T11:30:00Z"
+    },
     {
       "source": "the hacker news",
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
@@ -18,36 +48,6 @@
       "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
       "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
       "date": "2026-06-23T03:56:58Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "date": "2026-06-22T22:42:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "date": "2026-06-22T21:52:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "date": "2026-06-22T21:05:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "date": "2026-06-22T20:01:02Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "date": "2026-06-22T18:00:48Z"
     }
   ]
 }
