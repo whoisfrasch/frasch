@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-23T15:26:41Z",
+  "updated": "2026-06-23T20:24:40Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "date": "2026-06-23T20:22:21Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "date": "2026-06-23T19:59:12Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "date": "2026-06-23T18:30:16Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "date": "2026-06-23T18:20:49Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "date": "2026-06-23T15:31:59Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "date": "2026-06-23T15:16:43Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "date": "2026-06-23T15:16:40Z"
+    },
     {
       "source": "the hacker news",
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
       "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
       "date": "2026-06-23T14:22:03Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
-      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
-      "date": "2026-06-23T14:01:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "LastPass confirms data breach in Klue supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-      "date": "2026-06-23T13:58:25Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Webinar: Why email security teams are drowning in alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
-      "date": "2026-06-23T12:12:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "date": "2026-06-23T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "date": "2026-06-23T08:54:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "date": "2026-06-23T05:38:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "date": "2026-06-23T03:56:58Z"
     }
   ]
 }
