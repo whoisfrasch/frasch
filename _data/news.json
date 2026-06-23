@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-23T04:31:43Z",
+  "updated": "2026-06-23T10:04:51Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+      "date": "2026-06-23T08:54:32Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+      "date": "2026-06-23T05:38:40Z"
+    },
     {
       "source": "the hacker news",
       "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
@@ -36,18 +48,6 @@
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
       "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
       "date": "2026-06-22T18:00:48Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "date": "2026-06-22T17:41:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "date": "2026-06-22T17:28:57Z"
     }
   ]
 }
