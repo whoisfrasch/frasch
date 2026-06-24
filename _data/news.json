@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-23T20:24:40Z",
+  "updated": "2026-06-24T04:39:08Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "date": "2026-06-23T21:48:32Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "date": "2026-06-23T21:06:32Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
@@ -36,18 +48,6 @@
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
       "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
       "date": "2026-06-23T15:16:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "date": "2026-06-23T15:16:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "date": "2026-06-23T14:22:03Z"
     }
   ]
 }
