@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-24T04:39:08Z",
+  "updated": "2026-06-24T09:52:14Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "date": "2026-06-24T08:55:12Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+      "date": "2026-06-24T06:50:38Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
@@ -36,18 +48,6 @@
       "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
       "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
       "date": "2026-06-23T18:20:49Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Scattered Spider members plead guilty to hacking Transport for London",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
-      "date": "2026-06-23T15:31:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-      "date": "2026-06-23T15:16:43Z"
     }
   ]
 }
