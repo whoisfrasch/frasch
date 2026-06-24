@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-24T09:52:14Z",
+  "updated": "2026-06-24T15:10:40Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+      "date": "2026-06-24T14:35:15Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+      "date": "2026-06-24T14:35:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+      "date": "2026-06-24T14:02:12Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+      "date": "2026-06-24T12:48:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Dawn of the Apex Agentic Adversary",
+      "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+      "date": "2026-06-24T11:30:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "date": "2026-06-24T10:41:51Z"
+    },
     {
       "source": "the hacker news",
       "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
@@ -12,42 +48,6 @@
       "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
       "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
       "date": "2026-06-24T06:50:38Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "date": "2026-06-23T21:48:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "date": "2026-06-23T21:06:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-      "date": "2026-06-23T20:22:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "date": "2026-06-23T19:59:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-      "date": "2026-06-23T18:30:16Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-      "date": "2026-06-23T18:20:49Z"
     }
   ]
 }
