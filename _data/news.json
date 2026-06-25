@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-25T15:18:23Z",
+  "updated": "2026-06-25T20:23:47Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "date": "2026-06-25T19:45:48Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+      "date": "2026-06-25T18:29:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "date": "2026-06-25T16:23:19Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+      "date": "2026-06-25T15:36:56Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
@@ -24,30 +48,6 @@
       "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
       "date": "2026-06-25T12:24:43Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-      "date": "2026-06-25T12:12:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-      "date": "2026-06-25T11:17:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "date": "2026-06-25T09:23:03Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-      "date": "2026-06-25T08:54:37Z"
     }
   ]
 }
