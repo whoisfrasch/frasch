@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-25T04:35:53Z",
+  "updated": "2026-06-25T09:46:15Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+      "date": "2026-06-25T08:54:37Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+      "date": "2026-06-25T05:46:54Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Google releases new privacy controls for activity history, personalization",
@@ -36,18 +48,6 @@
       "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
       "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
       "date": "2026-06-24T15:59:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "date": "2026-06-24T14:35:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-      "date": "2026-06-24T14:35:11Z"
     }
   ]
 }
