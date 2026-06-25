@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-25T09:46:15Z",
+  "updated": "2026-06-25T15:18:23Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+      "date": "2026-06-25T15:00:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+      "date": "2026-06-25T14:12:52Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The Four Elevations of Effective Fraud Prevention",
+      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+      "date": "2026-06-25T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "date": "2026-06-25T12:24:43Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "date": "2026-06-25T12:12:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "date": "2026-06-25T11:17:31Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "date": "2026-06-25T09:23:03Z"
+    },
     {
       "source": "the hacker news",
       "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
       "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
       "date": "2026-06-25T08:54:37Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "date": "2026-06-25T05:46:54Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google releases new privacy controls for activity history, personalization",
-      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-      "date": "2026-06-24T23:46:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "date": "2026-06-24T21:55:43Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "date": "2026-06-24T21:29:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "date": "2026-06-24T20:58:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-      "date": "2026-06-24T17:19:18Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-      "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-      "date": "2026-06-24T15:59:50Z"
     }
   ]
 }
