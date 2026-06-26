@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-26T04:42:06Z",
+  "updated": "2026-06-26T09:53:07Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+      "date": "2026-06-26T08:49:35Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+      "date": "2026-06-26T07:15:46Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
@@ -36,18 +48,6 @@
       "title": "PirloTV sports piracy network disrupted as 44 domains seized",
       "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
       "date": "2026-06-25T15:36:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-      "date": "2026-06-25T15:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-      "date": "2026-06-25T14:12:52Z"
     }
   ]
 }
