@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-26T09:53:07Z",
+  "updated": "2026-06-26T14:48:59Z",
   "items": [
     {
+      "source": "bleepingcomputer",
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "date": "2026-06-26T14:01:11Z"
+    },
+    {
       "source": "the hacker news",
-      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
-      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-      "date": "2026-06-26T08:49:35Z"
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "date": "2026-06-26T13:57:55Z"
     },
     {
       "source": "the hacker news",
-      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-      "date": "2026-06-26T07:15:46Z"
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "date": "2026-06-26T13:53:00Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "date": "2026-06-25T22:53:32Z"
+      "source": "the hacker news",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "date": "2026-06-26T12:31:56Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-      "date": "2026-06-25T22:37:42Z"
+      "source": "the hacker news",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "date": "2026-06-26T11:51:35Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Order-tracking app Shop abused to push callback phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "date": "2026-06-25T19:45:48Z"
+      "source": "the hacker news",
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+      "date": "2026-06-26T11:30:00Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-      "date": "2026-06-25T18:29:20Z"
+      "source": "the hacker news",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "date": "2026-06-26T11:05:45Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "date": "2026-06-25T16:23:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-      "date": "2026-06-25T15:36:56Z"
+      "source": "the hacker news",
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+      "date": "2026-06-26T09:27:12Z"
     }
   ]
 }
