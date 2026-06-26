@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-25T20:23:47Z",
+  "updated": "2026-06-26T04:42:06Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "date": "2026-06-25T22:53:32Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "date": "2026-06-25T22:37:42Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
@@ -36,18 +48,6 @@
       "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
       "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
       "date": "2026-06-25T14:12:52Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "date": "2026-06-25T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-      "date": "2026-06-25T12:24:43Z"
     }
   ]
 }
