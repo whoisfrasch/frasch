@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-27T14:08:21Z",
+  "updated": "2026-06-27T19:47:12Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+      "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+      "date": "2026-06-27T17:27:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+      "date": "2026-06-27T14:22:36Z"
+    },
     {
       "source": "the hacker news",
       "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
@@ -36,18 +48,6 @@
       "title": "Polymarket customers lose $3 million in supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
       "date": "2026-06-26T18:04:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "date": "2026-06-26T17:49:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "date": "2026-06-26T16:21:25Z"
     }
   ]
 }
