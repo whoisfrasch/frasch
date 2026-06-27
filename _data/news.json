@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-26T20:12:52Z",
+  "updated": "2026-06-27T04:18:20Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "date": "2026-06-26T22:06:17Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
@@ -42,12 +48,6 @@
       "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
       "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
       "date": "2026-06-26T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "date": "2026-06-26T13:57:55Z"
     }
   ]
 }
