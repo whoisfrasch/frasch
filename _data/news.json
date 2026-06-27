@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-27T09:06:49Z",
+  "updated": "2026-06-27T14:08:21Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+      "date": "2026-06-27T12:19:37Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "FBI: Russian hackers now target Signal backup recovery keys",
@@ -42,12 +48,6 @@
       "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
       "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
       "date": "2026-06-26T16:21:25Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "date": "2026-06-26T14:01:11Z"
     }
   ]
 }
