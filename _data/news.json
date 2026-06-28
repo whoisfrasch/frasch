@@ -1,6 +1,12 @@
 {
-  "updated": "2026-06-28T14:17:52Z",
+  "updated": "2026-06-28T19:48:03Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "date": "2026-06-28T14:13:46Z"
+    },
     {
       "source": "the hacker news",
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
@@ -42,12 +48,6 @@
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
       "date": "2026-06-26T18:17:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "date": "2026-06-26T18:04:12Z"
     }
   ]
 }
