@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-29T05:01:32Z",
+  "updated": "2026-06-29T11:25:31Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "date": "2026-06-29T11:21:03Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "date": "2026-06-29T08:32:31Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "date": "2026-06-29T07:06:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "date": "2026-06-29T05:36:06Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
@@ -24,30 +48,6 @@
       "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
       "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
       "date": "2026-06-27T12:19:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "date": "2026-06-26T22:06:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "date": "2026-06-26T19:43:06Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "date": "2026-06-26T19:38:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "date": "2026-06-26T18:17:46Z"
     }
   ]
 }
