@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-30T14:44:56Z",
+  "updated": "2026-06-30T20:21:08Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "date": "2026-06-30T17:46:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "date": "2026-06-30T17:45:25Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "date": "2026-06-30T15:47:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+      "date": "2026-06-30T15:46:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "date": "2026-06-30T15:40:18Z"
+    },
     {
       "source": "the hacker news",
       "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
@@ -18,36 +48,6 @@
       "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
       "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
       "date": "2026-06-30T13:49:34Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-      "date": "2026-06-30T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-      "date": "2026-06-30T11:18:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-      "date": "2026-06-30T11:12:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft adds smarter bot protection to Teams meetings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
-      "date": "2026-06-30T10:52:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
-      "date": "2026-06-30T09:46:39Z"
     }
   ]
 }
