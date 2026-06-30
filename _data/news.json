@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-30T10:02:51Z",
+  "updated": "2026-06-30T14:44:56Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+      "date": "2026-06-30T14:26:15Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+      "date": "2026-06-30T14:00:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "date": "2026-06-30T13:49:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
+      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+      "date": "2026-06-30T11:30:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "date": "2026-06-30T11:18:47Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "date": "2026-06-30T11:12:18Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "date": "2026-06-30T10:52:26Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
       "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
       "date": "2026-06-30T09:46:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "date": "2026-06-30T09:41:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "date": "2026-06-30T08:53:13Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "date": "2026-06-30T08:37:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-      "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
-      "date": "2026-06-30T07:38:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "date": "2026-06-30T07:15:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "date": "2026-06-30T05:04:06Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "date": "2026-06-29T20:40:44Z"
     }
   ]
 }
