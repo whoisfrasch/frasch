@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-29T20:17:14Z",
+  "updated": "2026-06-30T04:36:04Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "date": "2026-06-29T20:40:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+      "date": "2026-06-29T20:30:28Z"
+    },
     {
       "source": "the hacker news",
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
@@ -36,18 +48,6 @@
       "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
       "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
       "date": "2026-06-29T15:03:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "date": "2026-06-29T14:41:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "date": "2026-06-29T14:01:11Z"
     }
   ]
 }
