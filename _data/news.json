@@ -1,53 +1,53 @@
 {
-  "updated": "2026-06-30T04:36:04Z",
+  "updated": "2026-06-30T10:02:51Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "date": "2026-06-30T09:46:39Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "date": "2026-06-30T09:41:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "date": "2026-06-30T08:53:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "date": "2026-06-30T08:37:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "date": "2026-06-30T07:38:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "date": "2026-06-30T07:15:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "date": "2026-06-30T05:04:06Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
       "date": "2026-06-29T20:40:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-      "date": "2026-06-29T20:30:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "date": "2026-06-29T18:40:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "WhatsApp rolls out usernames to help users hide their phone number",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-      "date": "2026-06-29T17:48:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
-      "date": "2026-06-29T17:11:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-      "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
-      "date": "2026-06-29T16:09:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
-      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
-      "date": "2026-06-29T15:09:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-      "date": "2026-06-29T15:03:40Z"
     }
   ]
 }
