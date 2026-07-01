@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-30T20:21:08Z",
+  "updated": "2026-07-01T04:55:43Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "date": "2026-07-01T03:54:22Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic to restore Claude Fable access on Wednesday",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
+      "date": "2026-07-01T00:35:14Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
+      "date": "2026-06-30T23:13:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "date": "2026-06-30T21:50:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+      "date": "2026-06-30T21:20:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
+      "date": "2026-06-30T21:02:55Z"
+    },
     {
       "source": "the hacker news",
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
@@ -12,42 +48,6 @@
       "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
       "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
       "date": "2026-06-30T17:45:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "date": "2026-06-30T15:47:20Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "date": "2026-06-30T15:46:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "date": "2026-06-30T15:40:18Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "date": "2026-06-30T14:26:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "date": "2026-06-30T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "date": "2026-06-30T13:49:34Z"
     }
   ]
 }
