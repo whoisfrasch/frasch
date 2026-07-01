@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-01T10:16:53Z",
+  "updated": "2026-07-01T15:13:21Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "date": "2026-07-01T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "date": "2026-07-01T13:56:18Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "date": "2026-07-01T12:59:19Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "date": "2026-07-01T12:30:01Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "date": "2026-07-01T11:30:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "date": "2026-07-01T10:52:26Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "date": "2026-07-01T10:41:36Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
       "date": "2026-07-01T09:43:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "date": "2026-07-01T07:34:52Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "date": "2026-07-01T07:20:51Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "date": "2026-07-01T06:46:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-      "date": "2026-07-01T05:46:03Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "date": "2026-07-01T05:32:12Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "date": "2026-07-01T03:54:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "date": "2026-07-01T00:35:14Z"
     }
   ]
 }
