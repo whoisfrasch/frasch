@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-01T15:13:21Z",
+  "updated": "2026-07-01T20:16:45Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-      "date": "2026-07-01T14:01:11Z"
+      "title": "ChocoPoc malware delivered via trojanized exploits on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/",
+      "date": "2026-07-01T20:08:13Z"
     },
     {
       "source": "the hacker news",
-      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-      "date": "2026-07-01T13:56:18Z"
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "date": "2026-07-01T19:40:06Z"
     },
     {
       "source": "the hacker news",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
-      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "date": "2026-07-01T12:59:19Z"
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "date": "2026-07-01T19:28:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+      "date": "2026-07-01T17:53:06Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "date": "2026-07-01T12:30:01Z"
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "date": "2026-07-01T17:32:22Z"
     },
     {
       "source": "the hacker news",
-      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-      "date": "2026-07-01T11:30:00Z"
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+      "date": "2026-07-01T17:18:50Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "date": "2026-07-01T10:52:26Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-      "date": "2026-07-01T10:41:36Z"
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "date": "2026-07-01T16:54:22Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "date": "2026-07-01T09:43:27Z"
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "date": "2026-07-01T16:38:01Z"
     }
   ]
 }
