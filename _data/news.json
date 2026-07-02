@@ -1,10 +1,22 @@
 {
-  "updated": "2026-07-01T20:16:45Z",
+  "updated": "2026-07-02T04:32:35Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "ChocoPoc malware delivered via trojanized exploits on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "date": "2026-07-01T21:37:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Kubota says hackers had month-long access to network systems",
+      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "date": "2026-07-01T21:09:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "date": "2026-07-01T20:08:13Z"
     },
     {
@@ -36,18 +48,6 @@
       "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
       "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
       "date": "2026-07-01T17:18:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "date": "2026-07-01T16:54:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-      "date": "2026-07-01T16:38:01Z"
     }
   ]
 }
