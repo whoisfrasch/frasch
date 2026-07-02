@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-02T14:30:49Z",
+  "updated": "2026-07-02T19:54:00Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "date": "2026-07-02T18:54:06Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "date": "2026-07-02T18:30:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "date": "2026-07-02T15:24:18Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+      "date": "2026-07-02T15:18:51Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
@@ -24,30 +48,6 @@
       "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
       "date": "2026-07-02T11:35:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Identity Lifecycle Management Wasn't Built for AI Agents ",
-      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-      "date": "2026-07-02T11:30:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "date": "2026-07-02T10:52:43Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-      "date": "2026-07-02T10:46:58Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "date": "2026-07-02T09:13:13Z"
     }
   ]
 }
