@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-02T19:54:00Z",
+  "updated": "2026-07-03T04:11:23Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
+      "date": "2026-07-03T01:37:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Claude Fable relaunch disappoints users with nerfed performance",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+      "date": "2026-07-03T00:48:30Z"
+    },
     {
       "source": "the hacker news",
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
@@ -36,18 +48,6 @@
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
       "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
       "date": "2026-07-02T13:04:13Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "date": "2026-07-02T12:15:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "date": "2026-07-02T11:35:25Z"
     }
   ]
 }
