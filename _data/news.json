@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-03T09:36:42Z",
+  "updated": "2026-07-03T14:33:15Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+      "date": "2026-07-03T14:12:22Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+      "date": "2026-07-03T13:36:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+      "date": "2026-07-03T11:05:43Z"
+    },
     {
       "source": "the hacker news",
       "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
@@ -30,24 +48,6 @@
       "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
       "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
       "date": "2026-07-02T18:30:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "date": "2026-07-02T15:24:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-      "date": "2026-07-02T15:18:51Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-      "date": "2026-07-02T14:00:10Z"
     }
   ]
 }
