@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-03T14:33:15Z",
+  "updated": "2026-07-03T19:52:00Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+      "date": "2026-07-03T18:55:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "date": "2026-07-03T17:50:04Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+      "date": "2026-07-03T16:07:15Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
@@ -30,24 +48,6 @@
       "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
       "date": "2026-07-03T01:37:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Claude Fable relaunch disappoints users with nerfed performance",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-      "date": "2026-07-03T00:48:30Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "date": "2026-07-02T18:54:06Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "date": "2026-07-02T18:30:33Z"
     }
   ]
 }
