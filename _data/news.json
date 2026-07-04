@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-04T14:01:02Z",
+  "updated": "2026-07-04T19:39:22Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "date": "2026-07-04T14:16:38Z"
+    },
     {
       "source": "the hacker news",
       "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
@@ -42,12 +48,6 @@
       "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
       "date": "2026-07-03T16:07:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "date": "2026-07-03T14:12:22Z"
     }
   ]
 }
