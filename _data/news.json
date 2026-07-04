@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-03T19:52:00Z",
+  "updated": "2026-07-04T04:04:29Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "date": "2026-07-03T20:19:31Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "date": "2026-07-03T19:40:01Z"
+    },
     {
       "source": "the hacker news",
       "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
@@ -36,18 +48,6 @@
       "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
       "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
       "date": "2026-07-03T11:05:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "date": "2026-07-03T08:03:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "date": "2026-07-03T01:37:09Z"
     }
   ]
 }
