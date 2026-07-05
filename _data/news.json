@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-05T14:11:29Z",
+  "updated": "2026-07-05T19:44:14Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Flipper Zero firmware development continues with community help",
+      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+      "date": "2026-07-05T14:14:52Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "JadePuffer ransomware used AI agent to automate entire attack",
@@ -42,12 +48,6 @@
       "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
       "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
       "date": "2026-07-03T17:50:04Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-      "date": "2026-07-03T16:07:15Z"
     }
   ]
 }
