@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-06T11:06:39Z",
+  "updated": "2026-07-06T15:55:34Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+      "date": "2026-07-06T14:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "date": "2026-07-06T13:18:37Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+      "date": "2026-07-06T13:01:14Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "date": "2026-07-06T11:30:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "date": "2026-07-06T10:58:16Z"
+    },
     {
       "source": "the hacker news",
       "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
@@ -18,36 +48,6 @@
       "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
       "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
       "date": "2026-07-06T07:27:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "date": "2026-07-06T06:33:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Flipper Zero firmware development continues with community help",
-      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "date": "2026-07-05T14:14:52Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "date": "2026-07-04T14:16:38Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "date": "2026-07-04T12:47:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-      "date": "2026-07-04T11:17:24Z"
     }
   ]
 }
