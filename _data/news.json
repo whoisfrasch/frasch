@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-06T04:41:52Z",
+  "updated": "2026-07-06T11:06:39Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+      "date": "2026-07-06T08:50:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+      "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+      "date": "2026-07-06T08:13:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "date": "2026-07-06T07:27:50Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "date": "2026-07-06T06:33:56Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Flipper Zero firmware development continues with community help",
@@ -24,30 +48,6 @@
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
       "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
       "date": "2026-07-04T11:17:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-      "date": "2026-07-03T20:19:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "date": "2026-07-03T19:40:01Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-      "date": "2026-07-03T18:55:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "date": "2026-07-03T17:50:04Z"
     }
   ]
 }
