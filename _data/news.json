@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-06T20:15:45Z",
+  "updated": "2026-07-07T04:18:15Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "date": "2026-07-06T20:27:37Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "date": "2026-07-06T20:23:45Z"
+    },
     {
       "source": "the hacker news",
       "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
@@ -36,18 +48,6 @@
       "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
       "date": "2026-07-06T13:18:37Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "date": "2026-07-06T13:01:14Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "date": "2026-07-06T11:30:02Z"
     }
   ]
 }
