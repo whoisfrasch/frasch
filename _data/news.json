@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-07T10:02:03Z",
+  "updated": "2026-07-07T15:17:39Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "date": "2026-07-07T14:04:50Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+      "date": "2026-07-07T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "date": "2026-07-07T13:27:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "date": "2026-07-07T13:27:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
+      "date": "2026-07-07T12:12:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
+      "date": "2026-07-07T12:06:09Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "date": "2026-07-07T11:30:00Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Microsoft to enable Windows settings backup by default for orgs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
       "date": "2026-07-07T09:41:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "date": "2026-07-07T09:10:51Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "date": "2026-07-07T08:12:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "date": "2026-07-07T07:37:38Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "date": "2026-07-07T06:40:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "date": "2026-07-07T05:16:51Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Phishing poses as big-brand job interview to steal Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "date": "2026-07-06T20:27:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-      "date": "2026-07-06T20:23:45Z"
     }
   ]
 }
