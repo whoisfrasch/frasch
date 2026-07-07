@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-07T04:18:15Z",
+  "updated": "2026-07-07T10:02:03Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "date": "2026-07-07T09:41:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "date": "2026-07-07T09:10:51Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "BeyondTrust warns of critical flaws in remote access software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "date": "2026-07-07T08:12:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+      "date": "2026-07-07T07:37:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "date": "2026-07-07T06:40:47Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "date": "2026-07-07T05:16:51Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Phishing poses as big-brand job interview to steal Google accounts",
@@ -12,42 +48,6 @@
       "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
       "date": "2026-07-06T20:23:45Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "date": "2026-07-06T18:34:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-      "date": "2026-07-06T18:25:06Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "date": "2026-07-06T17:37:01Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "date": "2026-07-06T16:28:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-      "date": "2026-07-06T14:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "date": "2026-07-06T13:18:37Z"
     }
   ]
 }
