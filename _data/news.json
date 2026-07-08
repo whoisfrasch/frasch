@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-08T14:42:16Z",
+  "updated": "2026-07-08T19:57:02Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+      "date": "2026-07-08T19:54:59Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+      "date": "2026-07-08T18:56:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "date": "2026-07-08T17:02:12Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "date": "2026-07-08T16:47:25Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "date": "2026-07-08T15:07:24Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "date": "2026-07-08T14:38:05Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
@@ -12,42 +48,6 @@
       "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
       "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
       "date": "2026-07-08T13:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "date": "2026-07-08T12:52:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "DuckDuckGo browser now blocks YouTube video ads",
-      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
-      "date": "2026-07-08T12:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "date": "2026-07-08T11:51:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "date": "2026-07-08T11:30:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Telco giant KDDI says data breach affects over 12 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "date": "2026-07-08T11:24:16Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "date": "2026-07-08T11:21:07Z"
     }
   ]
 }
