@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-08T03:47:44Z",
+  "updated": "2026-07-08T08:45:32Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "date": "2026-07-08T08:15:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "date": "2026-07-08T07:16:55Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "date": "2026-07-08T06:16:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "date": "2026-07-08T05:33:12Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Accenture confirms breach after hacker offers stolen data for sale",
@@ -24,30 +48,6 @@
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
       "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
       "date": "2026-07-07T17:10:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "date": "2026-07-07T16:37:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-      "date": "2026-07-07T15:21:21Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "date": "2026-07-07T15:14:14Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "date": "2026-07-07T14:04:50Z"
     }
   ]
 }
