@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-07T20:16:45Z",
+  "updated": "2026-07-08T03:47:44Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Accenture confirms breach after hacker offers stolen data for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+      "date": "2026-07-07T22:06:07Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
@@ -42,12 +48,6 @@
       "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
       "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
       "date": "2026-07-07T14:04:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "date": "2026-07-07T14:01:11Z"
     }
   ]
 }
