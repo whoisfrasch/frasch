@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-08T19:57:02Z",
+  "updated": "2026-07-09T04:15:24Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "date": "2026-07-08T21:26:59Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
@@ -42,12 +48,6 @@
       "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
       "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
       "date": "2026-07-08T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-      "date": "2026-07-08T13:00:00Z"
     }
   ]
 }
