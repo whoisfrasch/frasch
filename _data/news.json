@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-09T04:15:24Z",
+  "updated": "2026-07-09T09:58:54Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+      "date": "2026-07-09T09:47:28Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+      "date": "2026-07-09T07:47:16Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+      "date": "2026-07-09T07:21:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "date": "2026-07-09T05:42:49Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "date": "2026-07-09T05:15:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "date": "2026-07-09T04:27:18Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "date": "2026-07-09T04:01:49Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Mount Royal University confirms breach as hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
       "date": "2026-07-08T21:26:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "date": "2026-07-08T19:54:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "date": "2026-07-08T18:56:02Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "date": "2026-07-08T17:02:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "date": "2026-07-08T16:47:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "date": "2026-07-08T15:07:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "date": "2026-07-08T14:38:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-      "date": "2026-07-08T14:01:11Z"
     }
   ]
 }
