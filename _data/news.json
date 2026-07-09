@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-09T15:35:30Z",
+  "updated": "2026-07-09T20:06:10Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "date": "2026-07-09T18:38:49Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "date": "2026-07-09T18:08:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "date": "2026-07-09T17:08:29Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "date": "2026-07-09T17:00:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "date": "2026-07-09T16:49:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "date": "2026-07-09T15:09:28Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
@@ -12,42 +48,6 @@
       "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
       "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
       "date": "2026-07-09T14:02:12Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-      "date": "2026-07-09T12:26:58Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft to retire the OWA Light client in Exchange Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "date": "2026-07-09T11:00:35Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Summer of Clearinghouses",
-      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-      "date": "2026-07-09T11:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "date": "2026-07-09T10:43:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "date": "2026-07-09T09:47:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "date": "2026-07-09T08:48:48Z"
     }
   ]
 }
