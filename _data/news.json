@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-10T04:17:45Z",
+  "updated": "2026-07-10T09:54:20Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "date": "2026-07-10T09:00:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "date": "2026-07-10T08:17:52Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "date": "2026-07-10T08:10:12Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
@@ -30,24 +48,6 @@
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
       "date": "2026-07-09T17:08:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-      "date": "2026-07-09T17:00:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-      "date": "2026-07-09T16:49:02Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "date": "2026-07-09T15:09:28Z"
     }
   ]
 }
