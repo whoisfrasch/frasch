@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-10T09:54:20Z",
+  "updated": "2026-07-10T15:03:55Z",
   "items": [
     {
       "source": "the hacker news",
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "date": "2026-07-10T09:00:05Z"
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "date": "2026-07-10T14:19:50Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "date": "2026-07-10T08:17:52Z"
+      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+      "date": "2026-07-10T14:00:10Z"
     },
     {
       "source": "the hacker news",
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "date": "2026-07-10T08:10:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
-      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-      "date": "2026-07-09T22:14:13Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-      "date": "2026-07-09T20:10:00Z"
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "date": "2026-07-10T13:15:23Z"
     },
     {
       "source": "the hacker news",
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "link": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "date": "2026-07-09T18:38:49Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "date": "2026-07-09T18:08:07Z"
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "date": "2026-07-10T11:47:43Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "date": "2026-07-09T17:08:29Z"
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "date": "2026-07-10T11:47:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "date": "2026-07-10T11:39:40Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "date": "2026-07-10T11:30:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "date": "2026-07-10T10:56:23Z"
     }
   ]
 }
