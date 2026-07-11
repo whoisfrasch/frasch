@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-11T13:56:57Z",
+  "updated": "2026-07-11T19:33:50Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "date": "2026-07-11T17:59:26Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "date": "2026-07-11T17:49:31Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "date": "2026-07-11T14:18:23Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
@@ -30,24 +48,6 @@
       "title": "Police suspects Dutch hackers were involved in Odido breach",
       "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
       "date": "2026-07-10T16:37:01Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "date": "2026-07-10T16:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "date": "2026-07-10T16:29:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "date": "2026-07-10T16:26:10Z"
     }
   ]
 }
