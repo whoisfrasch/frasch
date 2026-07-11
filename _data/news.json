@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-11T08:15:35Z",
+  "updated": "2026-07-11T13:56:57Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "date": "2026-07-11T09:03:57Z"
+    },
     {
       "source": "the hacker news",
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
@@ -42,12 +48,6 @@
       "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
       "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
       "date": "2026-07-10T16:26:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "date": "2026-07-10T15:57:14Z"
     }
   ]
 }
