@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-13T09:48:45Z",
+  "updated": "2026-07-13T15:13:22Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "US and allies warn of Russian critical infrastructure attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-      "date": "2026-07-13T09:32:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "date": "2026-07-13T07:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "date": "2026-07-13T05:36:02Z"
+      "title": "Lidl discloses online shop breach after service provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+      "date": "2026-07-13T14:19:43Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "date": "2026-07-13T00:44:44Z"
+      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+      "date": "2026-07-13T14:01:11Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-      "date": "2026-07-12T19:39:12Z"
+      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+      "date": "2026-07-13T13:23:30Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "date": "2026-07-13T13:03:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "date": "2026-07-13T11:54:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "date": "2026-07-13T11:37:05Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "date": "2026-07-12T14:27:32Z"
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "date": "2026-07-13T11:19:05Z"
     },
     {
       "source": "the hacker news",
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "date": "2026-07-11T17:59:26Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "date": "2026-07-11T17:49:31Z"
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "date": "2026-07-13T11:02:33Z"
     }
   ]
 }
