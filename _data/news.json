@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-13T04:02:39Z",
+  "updated": "2026-07-13T09:48:45Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "US and allies warn of Russian critical infrastructure attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "date": "2026-07-13T09:32:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "date": "2026-07-13T07:30:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "date": "2026-07-13T05:36:02Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
@@ -30,24 +48,6 @@
       "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
       "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
       "date": "2026-07-11T17:49:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "date": "2026-07-11T14:18:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "date": "2026-07-11T09:03:57Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "date": "2026-07-11T06:45:55Z"
     }
   ]
 }
