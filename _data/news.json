@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-13T15:13:22Z",
+  "updated": "2026-07-13T19:51:48Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+      "date": "2026-07-13T19:44:19Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New CrashStealer malware poses as Apple crash reporting tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "date": "2026-07-13T19:04:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "date": "2026-07-13T17:36:12Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "date": "2026-07-13T17:17:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+      "date": "2026-07-13T15:20:16Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+      "date": "2026-07-13T15:05:57Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Lidl discloses online shop breach after service provider hack",
@@ -12,42 +48,6 @@
       "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
       "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
       "date": "2026-07-13T14:01:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-      "date": "2026-07-13T13:23:30Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-      "date": "2026-07-13T13:03:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-      "date": "2026-07-13T11:54:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "date": "2026-07-13T11:37:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-      "date": "2026-07-13T11:19:05Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "date": "2026-07-13T11:02:33Z"
     }
   ]
 }
