@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-15T14:13:19Z",
+  "updated": "2026-07-15T19:38:01Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "date": "2026-07-15T18:43:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "date": "2026-07-15T18:33:48Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "date": "2026-07-15T15:37:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "date": "2026-07-15T15:30:30Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
@@ -24,30 +48,6 @@
       "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
       "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
       "date": "2026-07-15T11:07:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "date": "2026-07-15T11:06:57Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "date": "2026-07-15T10:55:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "date": "2026-07-15T09:44:52Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "date": "2026-07-15T09:16:13Z"
     }
   ]
 }
