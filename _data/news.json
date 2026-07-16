@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-16T03:40:58Z",
+  "updated": "2026-07-16T08:35:35Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+      "date": "2026-07-16T07:22:44Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Dutch police bust investment fraud ring stealing over €100 million",
@@ -42,12 +48,6 @@
       "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
       "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
       "date": "2026-07-15T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "date": "2026-07-15T13:18:53Z"
     }
   ]
 }
