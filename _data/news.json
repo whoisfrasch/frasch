@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-16T14:25:30Z",
+  "updated": "2026-07-16T19:35:09Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "date": "2026-07-16T19:26:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "date": "2026-07-16T19:09:35Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+      "date": "2026-07-16T17:09:25Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+      "date": "2026-07-16T15:41:15Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
@@ -15,39 +39,15 @@
     },
     {
       "source": "the hacker news",
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "date": "2026-07-16T13:33:25Z"
+    },
+    {
+      "source": "the hacker news",
       "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
       "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
       "date": "2026-07-16T12:50:13Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "date": "2026-07-16T12:33:42Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "date": "2026-07-16T12:31:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "date": "2026-07-16T11:59:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "date": "2026-07-16T11:58:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "date": "2026-07-16T11:32:28Z"
     }
   ]
 }
