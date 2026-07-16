@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-15T19:38:01Z",
+  "updated": "2026-07-16T03:40:58Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Dutch police bust investment fraud ring stealing over €100 million",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+      "date": "2026-07-15T21:55:50Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "date": "2026-07-15T20:16:02Z"
+    },
     {
       "source": "the hacker news",
       "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
@@ -36,18 +48,6 @@
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
       "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
       "date": "2026-07-15T13:18:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
-      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
-      "date": "2026-07-15T11:50:01Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "date": "2026-07-15T11:07:07Z"
     }
   ]
 }
