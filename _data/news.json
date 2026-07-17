@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-16T19:35:09Z",
+  "updated": "2026-07-17T03:40:45Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "date": "2026-07-16T21:52:54Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "date": "2026-07-16T21:09:41Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
@@ -36,18 +48,6 @@
       "title": "23andMe to pay $18 million in new genetics data breach settlement",
       "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
       "date": "2026-07-16T13:47:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "date": "2026-07-16T13:33:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "date": "2026-07-16T12:50:13Z"
     }
   ]
 }
