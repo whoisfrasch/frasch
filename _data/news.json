@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-17T03:40:45Z",
+  "updated": "2026-07-17T08:29:47Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "US charges two over laundering $43 million from investment fraud",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+      "date": "2026-07-17T08:13:37Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "date": "2026-07-17T07:03:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "date": "2026-07-17T06:42:23Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New ClickLock macOS malware traps users into revealing login password",
@@ -30,24 +48,6 @@
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
       "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
       "date": "2026-07-16T17:09:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "date": "2026-07-16T15:41:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "date": "2026-07-16T14:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "date": "2026-07-16T13:47:23Z"
     }
   ]
 }
