@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-17T08:29:47Z",
+  "updated": "2026-07-17T14:05:08Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "date": "2026-07-17T11:44:41Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "date": "2026-07-17T11:30:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
+      "date": "2026-07-17T11:05:30Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "date": "2026-07-17T10:53:31Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+      "date": "2026-07-17T09:10:15Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "date": "2026-07-17T08:56:39Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "date": "2026-07-17T08:46:45Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "US charges two over laundering $43 million from investment fraud",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
       "date": "2026-07-17T08:13:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "date": "2026-07-17T07:03:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "date": "2026-07-17T06:42:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "date": "2026-07-16T21:52:54Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "date": "2026-07-16T21:09:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "date": "2026-07-16T19:26:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "date": "2026-07-16T19:09:35Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-      "date": "2026-07-16T17:09:25Z"
     }
   ]
 }
