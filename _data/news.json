@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-17T14:05:08Z",
+  "updated": "2026-07-17T19:34:41Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "date": "2026-07-17T18:54:51Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "date": "2026-07-17T17:56:21Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "date": "2026-07-17T17:12:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "date": "2026-07-17T16:39:16Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "date": "2026-07-17T14:55:28Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+      "date": "2026-07-17T14:00:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "date": "2026-07-17T13:48:56Z"
+    },
     {
       "source": "the hacker news",
       "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
       "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
       "date": "2026-07-17T11:44:41Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-      "date": "2026-07-17T11:30:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "date": "2026-07-17T11:05:30Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "date": "2026-07-17T10:53:31Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-      "date": "2026-07-17T09:10:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-      "date": "2026-07-17T08:56:39Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "date": "2026-07-17T08:46:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "date": "2026-07-17T08:13:37Z"
     }
   ]
 }
