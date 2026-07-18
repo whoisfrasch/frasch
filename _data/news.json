@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-18T08:10:30Z",
+  "updated": "2026-07-18T13:52:10Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+      "date": "2026-07-18T13:15:24Z"
+    },
     {
       "source": "the hacker news",
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -42,12 +48,6 @@
       "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
       "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
       "date": "2026-07-17T16:39:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "date": "2026-07-17T14:55:28Z"
     }
   ]
 }
