@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-17T19:34:41Z",
+  "updated": "2026-07-18T03:35:20Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "date": "2026-07-17T21:20:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
+      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "date": "2026-07-17T20:45:52Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "date": "2026-07-17T20:20:53Z"
+    },
     {
       "source": "the hacker news",
       "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
@@ -30,24 +48,6 @@
       "title": "Ernst & Young discloses data breach after support system hack",
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
       "date": "2026-07-17T14:55:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "date": "2026-07-17T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "date": "2026-07-17T13:48:56Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "date": "2026-07-17T11:44:41Z"
     }
   ]
 }
