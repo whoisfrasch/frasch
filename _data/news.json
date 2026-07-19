@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-19T13:55:49Z",
+  "updated": "2026-07-19T19:34:32Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "date": "2026-07-19T14:23:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "date": "2026-07-19T13:30:55Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "date": "2026-07-19T13:18:56Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
@@ -30,24 +48,6 @@
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
       "date": "2026-07-17T21:20:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Abbott probes two cyber incidents amid extortion claims",
-      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-      "date": "2026-07-17T20:45:52Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-      "date": "2026-07-17T20:20:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-      "date": "2026-07-17T18:54:51Z"
     }
   ]
 }
