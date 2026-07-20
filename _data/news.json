@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-19T19:34:32Z",
+  "updated": "2026-07-20T04:07:15Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "date": "2026-07-19T20:42:49Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
@@ -42,12 +48,6 @@
       "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
       "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
       "date": "2026-07-18T13:15:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "date": "2026-07-17T21:20:10Z"
     }
   ]
 }
