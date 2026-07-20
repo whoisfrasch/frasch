@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-20T14:34:18Z",
+  "updated": "2026-07-20T19:58:19Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+      "date": "2026-07-20T18:23:03Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "date": "2026-07-20T17:43:01Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "date": "2026-07-20T17:29:50Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "date": "2026-07-20T14:33:43Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "An AI SOC Evaluation Guide for Security Leaders",
@@ -24,30 +48,6 @@
       "title": "Hugging Face warns an autonomous AI agent hacked its network",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
       "date": "2026-07-20T11:56:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "date": "2026-07-20T11:30:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft confirms Windows Server Update Services sync delays",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-      "date": "2026-07-20T10:47:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "date": "2026-07-20T10:06:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "date": "2026-07-20T09:29:20Z"
     }
   ]
 }
