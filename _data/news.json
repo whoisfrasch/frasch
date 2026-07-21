@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-21T14:25:32Z",
+  "updated": "2026-07-21T19:53:53Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "date": "2026-07-21T18:50:54Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "date": "2026-07-21T16:41:50Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "date": "2026-07-21T16:06:12Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "date": "2026-07-21T15:09:28Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "date": "2026-07-21T14:57:51Z"
+    },
     {
       "source": "the hacker news",
       "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
@@ -18,36 +48,6 @@
       "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
       "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
       "date": "2026-07-21T13:18:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "date": "2026-07-21T11:58:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "date": "2026-07-21T11:42:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "date": "2026-07-21T11:24:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-      "date": "2026-07-21T11:07:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "date": "2026-07-21T10:12:24Z"
     }
   ]
 }
