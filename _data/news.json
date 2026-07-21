@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-21T08:47:21Z",
+  "updated": "2026-07-21T14:25:32Z",
   "items": [
     {
+      "source": "the hacker news",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "date": "2026-07-21T14:04:57Z"
+    },
+    {
       "source": "bleepingcomputer",
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "date": "2026-07-21T08:06:26Z"
+      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+      "date": "2026-07-21T14:00:10Z"
     },
     {
       "source": "the hacker news",
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "date": "2026-07-21T07:34:32Z"
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "date": "2026-07-21T13:18:31Z"
     },
     {
       "source": "the hacker news",
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "date": "2026-07-21T06:29:26Z"
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "date": "2026-07-21T11:58:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "date": "2026-07-21T11:42:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "date": "2026-07-21T11:24:50Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "date": "2026-07-20T22:39:30Z"
+      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+      "date": "2026-07-21T11:07:07Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-      "date": "2026-07-20T22:23:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-      "date": "2026-07-20T22:22:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "date": "2026-07-20T21:14:42Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "date": "2026-07-20T21:08:02Z"
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "date": "2026-07-21T10:12:24Z"
     }
   ]
 }
