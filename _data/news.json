@@ -1,11 +1,35 @@
 {
-  "updated": "2026-07-21T19:53:53Z",
+  "updated": "2026-07-22T03:49:41Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Police dismantle Kratos phishing platform, arrest developer",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+      "date": "2026-07-21T23:07:33Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "date": "2026-07-21T22:34:17Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "date": "2026-07-21T20:06:55Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
       "date": "2026-07-21T18:50:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "date": "2026-07-21T18:46:32Z"
     },
     {
       "source": "bleepingcomputer",
@@ -24,30 +48,6 @@
       "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
       "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
       "date": "2026-07-21T15:09:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "date": "2026-07-21T14:57:51Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "date": "2026-07-21T14:04:57Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-      "date": "2026-07-21T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "date": "2026-07-21T13:18:31Z"
     }
   ]
 }
