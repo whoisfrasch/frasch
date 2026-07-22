@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-22T14:26:06Z",
+  "updated": "2026-07-22T19:46:34Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "date": "2026-07-22T18:07:16Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+      "date": "2026-07-22T16:59:17Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "date": "2026-07-22T15:30:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "date": "2026-07-22T15:01:21Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
@@ -24,30 +48,6 @@
       "title": "The Fastest Path to AI Adoption Runs Through Security",
       "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "date": "2026-07-22T11:58:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "date": "2026-07-22T11:43:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "date": "2026-07-22T11:30:02Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "date": "2026-07-22T11:25:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "date": "2026-07-22T11:09:16Z"
     }
   ]
 }
