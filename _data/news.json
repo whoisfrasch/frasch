@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-22T08:46:25Z",
+  "updated": "2026-07-22T14:26:06Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "date": "2026-07-22T06:40:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "date": "2026-07-22T06:38:45Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "date": "2026-07-22T06:00:06Z"
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "date": "2026-07-22T14:15:00Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "date": "2026-07-22T05:19:20Z"
+      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+      "date": "2026-07-22T13:22:20Z"
     },
     {
       "source": "the hacker news",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "date": "2026-07-22T04:57:52Z"
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "date": "2026-07-22T12:36:36Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "date": "2026-07-22T11:58:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+      "date": "2026-07-22T11:43:28Z"
     },
     {
       "source": "the hacker news",
       "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
       "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "date": "2026-07-22T04:18:33Z"
+      "date": "2026-07-22T11:30:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "date": "2026-07-22T11:25:35Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Police dismantle Kratos phishing platform, arrest developer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-      "date": "2026-07-21T23:07:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "date": "2026-07-21T22:34:17Z"
+      "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
+      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
+      "date": "2026-07-22T11:09:16Z"
     }
   ]
 }
