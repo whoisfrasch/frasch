@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-22T03:49:41Z",
+  "updated": "2026-07-22T08:46:25Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "date": "2026-07-22T06:40:29Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "date": "2026-07-22T06:38:45Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "date": "2026-07-22T06:00:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "date": "2026-07-22T05:19:20Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "date": "2026-07-22T04:57:52Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "date": "2026-07-22T04:18:33Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Police dismantle Kratos phishing platform, arrest developer",
@@ -12,42 +48,6 @@
       "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
       "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
       "date": "2026-07-21T22:34:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "date": "2026-07-21T20:06:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "date": "2026-07-21T18:50:54Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "date": "2026-07-21T18:46:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "date": "2026-07-21T16:41:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "date": "2026-07-21T16:06:12Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "date": "2026-07-21T15:09:28Z"
     }
   ]
 }
