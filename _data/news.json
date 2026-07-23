@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-23T03:47:39Z",
+  "updated": "2026-07-23T08:45:47Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "date": "2026-07-23T08:13:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "date": "2026-07-23T06:34:36Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
@@ -36,18 +48,6 @@
       "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
       "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
       "date": "2026-07-22T15:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-      "date": "2026-07-22T15:01:21Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-      "date": "2026-07-22T14:15:00Z"
     }
   ]
 }
