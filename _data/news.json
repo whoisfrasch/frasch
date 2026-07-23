@@ -1,53 +1,53 @@
 {
-  "updated": "2026-07-23T08:45:47Z",
+  "updated": "2026-07-23T14:34:58Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "date": "2026-07-23T08:13:07Z"
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "date": "2026-07-23T14:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "EU fines Google $1 billion for search, app store antitrust violations",
+      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+      "date": "2026-07-23T12:33:19Z"
     },
     {
       "source": "the hacker news",
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "date": "2026-07-23T06:34:36Z"
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "date": "2026-07-23T11:45:00Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "date": "2026-07-22T21:43:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "date": "2026-07-22T20:06:54Z"
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "date": "2026-07-23T11:40:16Z"
     },
     {
       "source": "the hacker news",
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "date": "2026-07-22T18:37:42Z"
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "date": "2026-07-23T11:28:54Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "date": "2026-07-23T10:00:00Z"
     },
     {
       "source": "the hacker news",
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "date": "2026-07-22T18:07:16Z"
+      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
+      "date": "2026-07-23T10:00:00Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "date": "2026-07-22T16:59:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
-      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-      "date": "2026-07-22T15:30:00Z"
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "date": "2026-07-23T09:20:10Z"
     }
   ]
 }
