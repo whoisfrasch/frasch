@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-22T19:46:34Z",
+  "updated": "2026-07-23T03:47:39Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "date": "2026-07-22T21:43:39Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "date": "2026-07-22T20:06:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+      "date": "2026-07-22T18:37:42Z"
+    },
     {
       "source": "the hacker news",
       "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
@@ -30,24 +48,6 @@
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
       "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
       "date": "2026-07-22T14:15:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-      "date": "2026-07-22T13:22:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-      "date": "2026-07-22T12:36:36Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "date": "2026-07-22T11:58:00Z"
     }
   ]
 }
