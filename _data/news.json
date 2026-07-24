@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-23T19:47:47Z",
+  "updated": "2026-07-24T03:46:39Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "date": "2026-07-23T21:20:34Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "date": "2026-07-23T20:14:35Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "date": "2026-07-23T19:48:30Z"
+    },
     {
       "source": "the hacker news",
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
@@ -30,24 +48,6 @@
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
       "date": "2026-07-23T15:02:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-      "date": "2026-07-23T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "date": "2026-07-23T13:27:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "date": "2026-07-23T13:11:09Z"
     }
   ]
 }
