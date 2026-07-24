@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-24T03:46:39Z",
+  "updated": "2026-07-24T08:44:15Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "date": "2026-07-24T07:41:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "date": "2026-07-24T07:36:39Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "date": "2026-07-24T06:58:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "date": "2026-07-24T06:50:57Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New Dolphin X malware uses AI to rank high-value targets",
@@ -24,30 +48,6 @@
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
       "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
       "date": "2026-07-23T18:36:08Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "date": "2026-07-23T16:49:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "date": "2026-07-23T16:32:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "date": "2026-07-23T15:34:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "date": "2026-07-23T15:02:07Z"
     }
   ]
 }
