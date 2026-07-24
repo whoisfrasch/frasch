@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-24T14:14:55Z",
+  "updated": "2026-07-24T19:48:46Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+      "date": "2026-07-24T19:09:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "date": "2026-07-24T17:50:37Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "date": "2026-07-24T15:41:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "date": "2026-07-24T15:12:35Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "date": "2026-07-24T14:15:21Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Chick-fil-A data breach affects more than 13,000 customers",
@@ -18,36 +48,6 @@
       "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
       "date": "2026-07-24T12:56:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "date": "2026-07-24T11:53:55Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-      "date": "2026-07-24T11:45:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-      "date": "2026-07-24T11:30:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "date": "2026-07-24T11:17:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-      "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-      "date": "2026-07-24T10:15:29Z"
     }
   ]
 }
