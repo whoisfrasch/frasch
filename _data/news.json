@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-25T14:04:14Z",
+  "updated": "2026-07-25T19:36:33Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "date": "2026-07-25T15:21:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "date": "2026-07-25T14:16:26Z"
+    },
     {
       "source": "the hacker news",
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
@@ -36,18 +48,6 @@
       "title": "OpenAI confirms ChatGPT is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
       "date": "2026-07-25T09:31:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "date": "2026-07-24T19:55:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "date": "2026-07-24T19:09:09Z"
     }
   ]
 }
