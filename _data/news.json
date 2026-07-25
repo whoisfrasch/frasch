@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-24T19:48:46Z",
+  "updated": "2026-07-25T03:41:20Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "date": "2026-07-24T19:55:01Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
@@ -42,12 +48,6 @@
       "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
       "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
       "date": "2026-07-24T14:01:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "date": "2026-07-24T12:56:53Z"
     }
   ]
 }
