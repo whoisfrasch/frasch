@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-25T19:36:33Z",
+  "updated": "2026-07-26T03:58:12Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+      "date": "2026-07-25T22:37:47Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "date": "2026-07-25T18:48:44Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Malicious sites use JavaScript to build malware in browser memory",
@@ -36,18 +48,6 @@
       "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
       "date": "2026-07-25T10:14:03Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "date": "2026-07-25T09:53:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "date": "2026-07-25T09:31:09Z"
     }
   ]
 }
