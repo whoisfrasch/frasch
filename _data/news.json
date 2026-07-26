@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-26T13:59:49Z",
+  "updated": "2026-07-26T19:36:53Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "date": "2026-07-26T14:13:39Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
@@ -42,12 +48,6 @@
       "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
       "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
       "date": "2026-07-25T10:14:21Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "date": "2026-07-25T10:14:03Z"
     }
   ]
 }
