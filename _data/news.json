@@ -1,11 +1,41 @@
 {
-  "updated": "2026-07-27T15:15:56Z",
+  "updated": "2026-07-27T19:57:20Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+      "date": "2026-07-27T18:10:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "date": "2026-07-27T17:29:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+      "date": "2026-07-27T17:16:28Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "date": "2026-07-27T15:39:51Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
       "date": "2026-07-27T15:12:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "date": "2026-07-27T14:40:00Z"
     },
     {
       "source": "the hacker news",
@@ -18,36 +48,6 @@
       "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
       "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
       "date": "2026-07-27T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-      "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-      "date": "2026-07-27T13:05:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
-      "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-      "date": "2026-07-27T12:37:49Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "date": "2026-07-27T10:51:45Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "date": "2026-07-27T08:48:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "date": "2026-07-27T08:01:23Z"
     }
   ]
 }
