@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-27T19:57:20Z",
+  "updated": "2026-07-28T03:39:31Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "date": "2026-07-27T23:49:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "date": "2026-07-27T22:49:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "date": "2026-07-27T21:08:15Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "date": "2026-07-27T21:00:25Z"
+    },
     {
       "source": "the hacker news",
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
@@ -24,30 +48,6 @@
       "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
       "date": "2026-07-27T15:39:51Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "date": "2026-07-27T15:12:27Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "date": "2026-07-27T14:40:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "date": "2026-07-27T14:10:54Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "date": "2026-07-27T14:01:11Z"
     }
   ]
 }
