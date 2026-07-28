@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-28T03:39:31Z",
+  "updated": "2026-07-28T09:06:58Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "date": "2026-07-28T08:11:22Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "date": "2026-07-28T08:04:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "date": "2026-07-28T06:07:22Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "date": "2026-07-28T04:43:53Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
@@ -24,30 +48,6 @@
       "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
       "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
       "date": "2026-07-27T21:00:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "date": "2026-07-27T18:10:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "date": "2026-07-27T17:29:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "date": "2026-07-27T17:16:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "date": "2026-07-27T15:39:51Z"
     }
   ]
 }
