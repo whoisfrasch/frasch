@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-28T19:54:36Z",
+  "updated": "2026-07-29T03:43:18Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "date": "2026-07-28T21:17:39Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "date": "2026-07-28T20:37:06Z"
+    },
     {
       "source": "the hacker news",
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
@@ -36,18 +48,6 @@
       "title": "Is Your SSO Protected Against Modern Credential Attacks?",
       "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
       "date": "2026-07-28T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "date": "2026-07-28T13:33:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "date": "2026-07-28T12:56:14Z"
     }
   ]
 }
