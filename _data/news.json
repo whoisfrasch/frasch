@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-29T03:43:18Z",
+  "updated": "2026-07-29T09:11:34Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "date": "2026-07-29T08:58:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "date": "2026-07-29T07:51:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+      "date": "2026-07-29T07:47:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "date": "2026-07-29T07:07:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "date": "2026-07-29T04:20:57Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
@@ -18,36 +48,6 @@
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
       "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
       "date": "2026-07-28T18:59:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "date": "2026-07-28T18:41:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "date": "2026-07-28T18:08:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "date": "2026-07-28T15:01:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "date": "2026-07-28T14:41:36Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "date": "2026-07-28T14:00:10Z"
     }
   ]
 }
