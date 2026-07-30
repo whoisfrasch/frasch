@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-30T03:32:19Z",
+  "updated": "2026-07-30T09:04:52Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "date": "2026-07-30T07:40:48Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "date": "2026-07-30T07:28:43Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "date": "2026-07-30T06:05:17Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "date": "2026-07-30T05:08:39Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
@@ -24,30 +48,6 @@
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
       "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
       "date": "2026-07-29T18:10:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "date": "2026-07-29T17:54:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "date": "2026-07-29T16:04:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "date": "2026-07-29T15:39:30Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "date": "2026-07-29T15:31:15Z"
     }
   ]
 }
