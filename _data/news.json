@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-29T19:46:20Z",
+  "updated": "2026-07-30T03:32:19Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "date": "2026-07-29T23:44:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "date": "2026-07-29T21:39:29Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "date": "2026-07-29T21:35:40Z"
+    },
     {
       "source": "the hacker news",
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
@@ -30,24 +48,6 @@
       "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
       "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
       "date": "2026-07-29T15:31:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "date": "2026-07-29T14:55:57Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "date": "2026-07-29T14:02:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "date": "2026-07-29T13:56:22Z"
     }
   ]
 }
