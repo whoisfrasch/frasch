@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-30T09:04:52Z",
+  "updated": "2026-07-30T14:34:42Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "date": "2026-07-30T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "date": "2026-07-30T11:54:49Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "date": "2026-07-30T11:32:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "date": "2026-07-30T10:33:15Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "date": "2026-07-30T10:32:59Z"
+    },
     {
       "source": "the hacker news",
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
@@ -18,36 +48,6 @@
       "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
       "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
       "date": "2026-07-30T06:05:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "date": "2026-07-30T05:08:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "date": "2026-07-29T23:44:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Anthropic confirms Claude is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "date": "2026-07-29T21:39:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-07-29T21:35:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "date": "2026-07-29T18:10:00Z"
     }
   ]
 }
