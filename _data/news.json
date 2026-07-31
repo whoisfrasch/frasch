@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-30T19:54:28Z",
+  "updated": "2026-07-31T03:52:50Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "date": "2026-07-31T00:57:25Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "South Korea fines telco giant KT $39 million for customer data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "date": "2026-07-30T22:28:30Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+      "date": "2026-07-30T22:01:31Z"
+    },
     {
       "source": "the hacker news",
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
@@ -30,24 +48,6 @@
       "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
       "date": "2026-07-30T16:46:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-      "date": "2026-07-30T15:56:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "date": "2026-07-30T15:25:57Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "date": "2026-07-30T15:12:25Z"
     }
   ]
 }
