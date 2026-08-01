@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-01T03:53:07Z",
+  "updated": "2026-08-01T08:34:46Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "date": "2026-08-01T07:12:42Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "date": "2026-08-01T06:29:05Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Amgen says cloud data breach exposed patient health, proprietary info",
@@ -36,18 +48,6 @@
       "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
       "date": "2026-07-31T17:35:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "date": "2026-07-31T16:49:49Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "date": "2026-07-31T16:39:31Z"
     }
   ]
 }
