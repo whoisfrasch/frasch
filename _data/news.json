@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-01T08:34:46Z",
+  "updated": "2026-08-01T13:58:00Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "date": "2026-08-01T09:03:07Z"
+    },
     {
       "source": "the hacker news",
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
@@ -42,12 +48,6 @@
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
       "date": "2026-07-31T18:52:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "date": "2026-07-31T17:35:35Z"
     }
   ]
 }
