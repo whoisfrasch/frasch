@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-31T19:54:45Z",
+  "updated": "2026-08-01T03:53:07Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "date": "2026-07-31T22:16:42Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Arch Linux disables AUR package adoption to stop malware flood",
+      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "date": "2026-07-31T21:38:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "date": "2026-07-31T21:09:25Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
@@ -30,24 +48,6 @@
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
       "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "date": "2026-07-31T16:39:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "date": "2026-07-31T14:45:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-      "date": "2026-07-31T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-      "date": "2026-07-31T12:51:52Z"
     }
   ]
 }
