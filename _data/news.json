@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-02T13:59:17Z",
+  "updated": "2026-08-02T19:37:04Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "date": "2026-08-02T14:17:16Z"
+    },
     {
       "source": "the hacker news",
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
@@ -42,12 +48,6 @@
       "title": "Arch Linux disables AUR package adoption to stop malware flood",
       "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
       "date": "2026-07-31T21:38:08Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "date": "2026-07-31T21:09:25Z"
     }
   ]
 }
