@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-03T03:57:56Z",
+  "updated": "2026-08-03T10:07:28Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "date": "2026-08-03T08:05:30Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "date": "2026-08-03T06:41:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "date": "2026-08-03T06:40:31Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
@@ -30,24 +48,6 @@
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
       "date": "2026-08-01T14:20:30Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "date": "2026-08-01T09:03:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "date": "2026-08-01T07:12:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "date": "2026-08-01T06:29:05Z"
     }
   ]
 }
