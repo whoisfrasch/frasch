@@ -1,6 +1,30 @@
 {
-  "updated": "2026-08-04T14:41:13Z",
+  "updated": "2026-08-04T19:59:00Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "date": "2026-08-04T19:03:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "date": "2026-08-04T18:50:55Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "date": "2026-08-04T17:27:39Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "date": "2026-08-04T15:24:35Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
@@ -24,30 +48,6 @@
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
       "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
       "date": "2026-08-04T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-      "date": "2026-08-04T11:16:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "date": "2026-08-04T10:36:27Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "date": "2026-08-04T09:03:23Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "date": "2026-08-04T07:00:13Z"
     }
   ]
 }
