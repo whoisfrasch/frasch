@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-04T03:41:04Z",
+  "updated": "2026-08-04T09:11:00Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "date": "2026-08-04T07:00:13Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
@@ -42,12 +48,6 @@
       "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
       "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
       "date": "2026-08-03T16:24:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "date": "2026-08-03T16:15:13Z"
     }
   ]
 }
