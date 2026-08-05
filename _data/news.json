@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-05T03:35:55Z",
+  "updated": "2026-08-05T09:07:51Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "date": "2026-08-05T07:53:50Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "date": "2026-08-05T07:40:39Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "date": "2026-08-05T05:47:19Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
@@ -30,24 +48,6 @@
       "title": "77 Open VSX extensions found harvesting developer info",
       "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
       "date": "2026-08-04T18:50:55Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "date": "2026-08-04T17:27:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "date": "2026-08-04T15:24:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "date": "2026-08-04T14:00:10Z"
     }
   ]
 }
