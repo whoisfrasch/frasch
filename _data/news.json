@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-05T09:07:51Z",
+  "updated": "2026-08-05T14:35:37Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "How AI-powered phishing killed blocklists for good",
+      "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "date": "2026-08-05T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "date": "2026-08-05T11:43:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "date": "2026-08-05T11:43:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "date": "2026-08-05T11:04:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "date": "2026-08-05T10:35:29Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "date": "2026-08-05T09:23:03Z"
+    },
     {
       "source": "the hacker news",
       "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
@@ -12,42 +48,6 @@
       "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
       "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
       "date": "2026-08-05T07:40:39Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "date": "2026-08-05T05:47:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "date": "2026-08-04T23:39:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "date": "2026-08-04T22:18:20Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "date": "2026-08-04T21:45:36Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "date": "2026-08-04T19:03:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "date": "2026-08-04T18:50:55Z"
     }
   ]
 }
