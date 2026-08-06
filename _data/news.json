@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-05T19:56:51Z",
+  "updated": "2026-08-06T03:42:00Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "date": "2026-08-05T23:00:50Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "date": "2026-08-05T21:53:26Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
@@ -36,18 +48,6 @@
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
       "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
       "date": "2026-08-05T15:36:03Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "date": "2026-08-05T15:14:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "date": "2026-08-05T14:59:29Z"
     }
   ]
 }
