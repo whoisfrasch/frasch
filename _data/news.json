@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-07T13:40:53Z",
+  "updated": "2026-08-07T19:18:16Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+      "date": "2026-08-07T15:48:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "date": "2026-08-07T14:00:10Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "North Carolina Ports confirms cyberattack disrupting operations",
@@ -36,18 +48,6 @@
       "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
       "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
       "date": "2026-08-07T10:38:27Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "date": "2026-08-07T10:09:54Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "date": "2026-08-07T08:52:11Z"
     }
   ]
 }
