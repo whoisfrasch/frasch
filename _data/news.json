@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-07T07:43:54Z",
+  "updated": "2026-08-07T13:40:53Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "date": "2026-08-06T22:48:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "date": "2026-08-06T22:37:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "date": "2026-08-06T20:07:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "date": "2026-08-06T18:14:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "date": "2026-08-06T18:03:45Z"
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "date": "2026-08-07T13:34:40Z"
     },
     {
       "source": "the hacker news",
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "date": "2026-08-06T17:58:30Z"
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "date": "2026-08-07T12:56:23Z"
     },
     {
       "source": "the hacker news",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "date": "2026-08-06T17:13:15Z"
+      "title": "Growing Up The Hard Way",
+      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+      "date": "2026-08-07T11:55:26Z"
     },
     {
       "source": "the hacker news",
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "date": "2026-08-06T16:17:13Z"
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "date": "2026-08-07T11:10:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "date": "2026-08-07T10:58:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "date": "2026-08-07T10:38:27Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "date": "2026-08-07T10:09:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "date": "2026-08-07T08:52:11Z"
     }
   ]
 }
