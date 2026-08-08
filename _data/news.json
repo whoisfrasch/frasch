@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-08T13:13:51Z",
+  "updated": "2026-08-08T19:00:36Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "date": "2026-08-08T14:16:23Z"
+    },
     {
       "source": "the hacker news",
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
@@ -42,12 +48,6 @@
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
       "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
       "date": "2026-08-07T19:30:41Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-      "date": "2026-08-07T18:48:17Z"
     }
   ]
 }
