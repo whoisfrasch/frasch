@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-10T02:36:34Z",
+  "updated": "2026-08-10T08:06:29Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+      "date": "2026-08-10T05:50:03Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
@@ -42,12 +48,6 @@
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "date": "2026-08-07T20:14:46Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "date": "2026-08-07T19:30:41Z"
     }
   ]
 }
