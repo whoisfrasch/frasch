@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-10T08:06:29Z",
+  "updated": "2026-08-10T13:46:50Z",
   "items": [
     {
+      "source": "bleepingcomputer",
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "date": "2026-08-10T12:56:28Z"
+    },
+    {
       "source": "the hacker news",
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "date": "2026-08-10T05:50:03Z"
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "date": "2026-08-10T12:25:04Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "date": "2026-08-08T14:16:23Z"
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "date": "2026-08-10T12:11:52Z"
     },
     {
       "source": "the hacker news",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "date": "2026-08-08T08:54:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "date": "2026-08-08T08:03:57Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "date": "2026-08-08T06:58:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "date": "2026-08-08T06:57:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-      "date": "2026-08-08T06:52:16Z"
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "date": "2026-08-10T11:52:16Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "date": "2026-08-07T20:14:46Z"
+      "title": "Valve notifies Steam hardware customers of a data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+      "date": "2026-08-10T11:47:55Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "date": "2026-08-10T11:33:41Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "date": "2026-08-10T09:49:37Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+      "date": "2026-08-10T07:38:23Z"
     }
   ]
 }
