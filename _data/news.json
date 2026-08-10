@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-10T13:46:50Z",
+  "updated": "2026-08-10T19:23:35Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Member of The Com sent to prison for blackmail, sextortion",
-      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-      "date": "2026-08-10T12:56:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "date": "2026-08-10T12:25:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "LexisNexis shuts down services after suspicious activity on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-      "date": "2026-08-10T12:11:52Z"
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "date": "2026-08-10T17:42:00Z"
     },
     {
       "source": "the hacker news",
       "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
       "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "date": "2026-08-10T11:52:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Valve notifies Steam hardware customers of a data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-      "date": "2026-08-10T11:47:55Z"
+      "date": "2026-08-10T17:29:17Z"
     },
     {
       "source": "the hacker news",
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "date": "2026-08-10T11:33:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-      "date": "2026-08-10T09:49:37Z"
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "date": "2026-08-10T16:38:37Z"
     },
     {
       "source": "the hacker news",
-      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-      "date": "2026-08-10T07:38:23Z"
+      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+      "date": "2026-08-10T15:00:29Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "date": "2026-08-10T14:34:32Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "date": "2026-08-10T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "date": "2026-08-10T13:19:58Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "date": "2026-08-10T12:56:28Z"
     }
   ]
 }
