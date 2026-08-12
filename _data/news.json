@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-11T19:27:50Z",
+  "updated": "2026-08-12T02:46:55Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+      "date": "2026-08-12T01:15:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "date": "2026-08-11T22:15:22Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "date": "2026-08-11T21:07:24Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "date": "2026-08-11T20:10:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "date": "2026-08-11T19:45:31Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "date": "2026-08-11T19:36:37Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "date": "2026-08-11T19:08:47Z"
+    },
     {
       "source": "the hacker news",
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
       "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
       "date": "2026-08-11T18:36:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "date": "2026-08-11T18:34:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "date": "2026-08-11T18:26:03Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "date": "2026-08-11T18:08:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "date": "2026-08-11T17:38:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "date": "2026-08-11T16:47:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "date": "2026-08-11T16:35:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "date": "2026-08-11T15:59:35Z"
     }
   ]
 }
