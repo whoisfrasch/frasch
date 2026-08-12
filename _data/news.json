@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-12T02:46:55Z",
+  "updated": "2026-08-12T07:54:21Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "date": "2026-08-12T07:31:40Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "date": "2026-08-12T06:41:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "date": "2026-08-12T06:15:58Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
@@ -30,24 +48,6 @@
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
       "date": "2026-08-11T19:45:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "date": "2026-08-11T19:36:37Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "date": "2026-08-11T19:08:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "date": "2026-08-11T18:36:47Z"
     }
   ]
 }
