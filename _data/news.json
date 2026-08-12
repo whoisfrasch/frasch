@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-12T13:50:26Z",
+  "updated": "2026-08-12T19:28:54Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "date": "2026-08-12T18:54:57Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "date": "2026-08-12T17:39:27Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+      "date": "2026-08-12T16:05:12Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "date": "2026-08-12T15:38:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "date": "2026-08-12T14:15:09Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "date": "2026-08-12T14:09:50Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "date": "2026-08-12T14:01:11Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
       "date": "2026-08-12T12:25:37Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "date": "2026-08-12T11:47:38Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "date": "2026-08-12T11:41:34Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "date": "2026-08-12T11:21:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "date": "2026-08-12T11:13:03Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "date": "2026-08-12T10:15:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "date": "2026-08-12T09:01:54Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "date": "2026-08-12T08:04:52Z"
     }
   ]
 }
