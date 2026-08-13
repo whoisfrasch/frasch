@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-13T03:00:58Z",
+  "updated": "2026-08-13T07:55:57Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "date": "2026-08-13T06:09:48Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
@@ -42,12 +48,6 @@
       "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
       "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
       "date": "2026-08-12T15:38:08Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FBI: Hackers target online accounts to steal nude photos",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-      "date": "2026-08-12T14:15:09Z"
     }
   ]
 }
