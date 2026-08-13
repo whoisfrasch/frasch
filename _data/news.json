@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-13T07:55:57Z",
+  "updated": "2026-08-13T13:50:10Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "White House taps security firms for offensive hack-back operations",
+      "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+      "date": "2026-08-13T13:30:53Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "date": "2026-08-13T11:50:22Z"
+    },
     {
       "source": "the hacker news",
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -36,18 +48,6 @@
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
       "date": "2026-08-12T17:39:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-      "date": "2026-08-12T16:05:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "date": "2026-08-12T15:38:08Z"
     }
   ]
 }
