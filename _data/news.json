@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-12T19:28:54Z",
+  "updated": "2026-08-13T03:00:58Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "date": "2026-08-12T23:07:23Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "date": "2026-08-12T22:22:57Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "date": "2026-08-12T20:54:59Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
@@ -30,24 +48,6 @@
       "title": "FBI: Hackers target online accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
       "date": "2026-08-12T14:15:09Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "date": "2026-08-12T14:09:50Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "date": "2026-08-12T14:01:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-      "date": "2026-08-12T12:25:37Z"
     }
   ]
 }
