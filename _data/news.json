@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-13T19:27:54Z",
+  "updated": "2026-08-14T02:48:12Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+      "date": "2026-08-14T01:19:12Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+      "date": "2026-08-13T21:12:47Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "date": "2026-08-13T20:47:02Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers breach govt webmail while running parallel crypto fraud",
@@ -30,24 +48,6 @@
       "title": "Trezor discloses data breach affecting nearly 14,000 customers",
       "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
       "date": "2026-08-13T15:13:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
-      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
-      "date": "2026-08-13T14:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "White House taps security firms for offensive hack-back operations",
-      "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-      "date": "2026-08-13T13:30:53Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "WhatsApp rolls out new feature that flags potential scam messages",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-      "date": "2026-08-13T11:50:22Z"
     }
   ]
 }
