@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-14T13:45:44Z",
+  "updated": "2026-08-14T19:16:03Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "date": "2026-08-14T18:04:26Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "date": "2026-08-14T14:59:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "date": "2026-08-14T14:00:10Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
@@ -30,24 +48,6 @@
       "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
       "date": "2026-08-14T01:19:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-      "date": "2026-08-13T21:12:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "date": "2026-08-13T20:47:02Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "date": "2026-08-13T18:15:19Z"
     }
   ]
 }
