@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-14T19:16:03Z",
+  "updated": "2026-08-15T01:51:45Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "date": "2026-08-14T23:24:17Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
@@ -42,12 +48,6 @@
       "title": "Data analyst sent to prison for stealing data, extorting employer",
       "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
       "date": "2026-08-14T08:27:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-      "date": "2026-08-14T01:19:12Z"
     }
   ]
 }
