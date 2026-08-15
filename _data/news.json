@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-15T13:00:35Z",
+  "updated": "2026-08-15T18:48:36Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "date": "2026-08-15T14:14:38Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
@@ -42,12 +48,6 @@
       "title": "RingCentral data breach exposed info of 1.6 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
       "date": "2026-08-14T10:52:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Data analyst sent to prison for stealing data, extorting employer",
-      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-      "date": "2026-08-14T08:27:18Z"
     }
   ]
 }
