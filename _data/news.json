@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-16T13:02:43Z",
+  "updated": "2026-08-16T18:48:14Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+      "date": "2026-08-16T17:29:52Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+      "date": "2026-08-16T15:07:44Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
@@ -36,18 +48,6 @@
       "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
       "date": "2026-08-14T13:45:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "date": "2026-08-14T11:55:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "date": "2026-08-14T10:52:05Z"
     }
   ]
 }
