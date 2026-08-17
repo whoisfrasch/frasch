@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-17T07:17:54Z",
+  "updated": "2026-08-17T13:08:36Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "date": "2026-08-16T23:47:06Z"
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "date": "2026-08-17T12:33:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "date": "2026-08-17T11:58:00Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-      "date": "2026-08-16T22:28:57Z"
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "date": "2026-08-17T11:25:02Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "date": "2026-08-17T10:52:34Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "date": "2026-08-16T17:29:52Z"
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "date": "2026-08-17T10:09:48Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "date": "2026-08-17T09:29:55Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "date": "2026-08-16T15:07:44Z"
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "date": "2026-08-17T09:05:33Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "date": "2026-08-15T14:14:38Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "date": "2026-08-14T23:24:17Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "date": "2026-08-14T18:04:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "date": "2026-08-14T14:59:55Z"
+      "source": "the hacker news",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "date": "2026-08-17T07:36:19Z"
     }
   ]
 }
