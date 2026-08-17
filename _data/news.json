@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-16T18:48:14Z",
+  "updated": "2026-08-17T01:56:26Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "date": "2026-08-16T23:47:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "date": "2026-08-16T22:28:57Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
@@ -36,18 +48,6 @@
       "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
       "date": "2026-08-14T14:59:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "date": "2026-08-14T14:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "date": "2026-08-14T13:45:18Z"
     }
   ]
 }
