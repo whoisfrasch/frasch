@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-17T13:08:36Z",
+  "updated": "2026-08-17T18:59:36Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "date": "2026-08-17T14:47:08Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "date": "2026-08-17T14:00:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "date": "2026-08-17T13:23:51Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
@@ -30,24 +48,6 @@
       "title": "French tax authority data breach affects 678,000 individuals",
       "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
       "date": "2026-08-17T10:09:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "date": "2026-08-17T09:29:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "date": "2026-08-17T09:05:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "date": "2026-08-17T07:36:19Z"
     }
   ]
 }
