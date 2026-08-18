@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-17T18:59:36Z",
+  "updated": "2026-08-18T01:52:21Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "date": "2026-08-17T21:03:04Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "date": "2026-08-17T19:35:01Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "date": "2026-08-17T19:12:39Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "date": "2026-08-17T18:44:17Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "date": "2026-08-17T18:22:09Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "date": "2026-08-17T17:41:06Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Microsoft confirms GitHub is down worldwide",
@@ -12,42 +48,6 @@
       "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
       "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
       "date": "2026-08-17T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "date": "2026-08-17T13:23:51Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "date": "2026-08-17T12:33:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "date": "2026-08-17T11:58:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "date": "2026-08-17T11:25:02Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "date": "2026-08-17T10:52:34Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "date": "2026-08-17T10:09:48Z"
     }
   ]
 }
