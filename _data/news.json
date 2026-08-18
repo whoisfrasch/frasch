@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-18T13:10:36Z",
+  "updated": "2026-08-18T18:58:41Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "date": "2026-08-18T17:47:22Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "date": "2026-08-18T17:44:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "date": "2026-08-18T17:29:51Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "date": "2026-08-18T16:58:16Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "date": "2026-08-18T14:01:11Z"
+    },
     {
       "source": "the hacker news",
       "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
@@ -18,36 +48,6 @@
       "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
       "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
       "date": "2026-08-18T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "date": "2026-08-18T11:20:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft tests faster Windows File Explorer, new context menu",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-      "date": "2026-08-18T11:14:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "date": "2026-08-18T10:32:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-      "date": "2026-08-18T09:24:49Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "date": "2026-08-18T09:10:45Z"
     }
   ]
 }
