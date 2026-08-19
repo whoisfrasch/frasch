@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-19T07:07:38Z",
+  "updated": "2026-08-19T13:11:41Z",
   "items": [
     {
-      "source": "bleepingcomputer",
-      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-      "date": "2026-08-18T20:14:58Z"
-    },
-    {
       "source": "the hacker news",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "date": "2026-08-18T17:47:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "date": "2026-08-18T17:44:05Z"
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "date": "2026-08-19T11:25:28Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "date": "2026-08-18T17:29:51Z"
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "date": "2026-08-19T11:14:28Z"
     },
     {
       "source": "the hacker news",
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "date": "2026-08-18T16:58:16Z"
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "date": "2026-08-19T11:01:48Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "date": "2026-08-18T14:01:11Z"
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "date": "2026-08-19T10:12:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "date": "2026-08-19T09:10:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+      "date": "2026-08-19T08:00:48Z"
     },
     {
       "source": "the hacker news",
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "date": "2026-08-18T12:38:36Z"
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "date": "2026-08-19T06:01:53Z"
     },
     {
       "source": "the hacker news",
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "date": "2026-08-18T12:38:20Z"
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "date": "2026-08-19T05:39:25Z"
     }
   ]
 }
