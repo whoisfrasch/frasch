@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-19T13:11:41Z",
+  "updated": "2026-08-19T18:55:23Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+      "date": "2026-08-19T18:09:13Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "date": "2026-08-19T17:50:01Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+      "date": "2026-08-19T15:56:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "date": "2026-08-19T14:00:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "date": "2026-08-19T13:12:17Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "date": "2026-08-19T11:34:28Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "date": "2026-08-19T11:30:00Z"
+    },
     {
       "source": "the hacker news",
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
       "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
       "date": "2026-08-19T11:25:28Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "date": "2026-08-19T11:14:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "date": "2026-08-19T11:01:48Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "date": "2026-08-19T10:12:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "date": "2026-08-19T09:10:20Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-      "date": "2026-08-19T08:00:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "date": "2026-08-19T06:01:53Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "date": "2026-08-19T05:39:25Z"
     }
   ]
 }
