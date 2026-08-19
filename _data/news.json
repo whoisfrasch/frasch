@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-18T18:58:41Z",
+  "updated": "2026-08-19T01:54:22Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "date": "2026-08-18T20:14:58Z"
+    },
     {
       "source": "the hacker news",
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
@@ -42,12 +48,6 @@
       "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
       "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
       "date": "2026-08-18T12:38:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "date": "2026-08-18T11:30:00Z"
     }
   ]
 }
