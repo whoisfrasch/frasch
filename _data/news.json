@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-20T01:53:21Z",
+  "updated": "2026-08-20T07:08:18Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "date": "2026-08-20T06:51:03Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "date": "2026-08-20T06:04:34Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
@@ -36,18 +48,6 @@
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "date": "2026-08-19T18:09:13Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "date": "2026-08-19T18:06:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "date": "2026-08-19T17:50:01Z"
     }
   ]
 }
