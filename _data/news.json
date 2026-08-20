@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-19T18:55:23Z",
+  "updated": "2026-08-20T01:53:21Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "date": "2026-08-20T00:20:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+      "date": "2026-08-19T20:59:58Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "date": "2026-08-19T20:53:38Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "date": "2026-08-19T20:07:12Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "date": "2026-08-19T19:02:40Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
@@ -8,46 +38,16 @@
       "date": "2026-08-19T18:09:13Z"
     },
     {
+      "source": "the hacker news",
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "date": "2026-08-19T18:06:44Z"
+    },
+    {
       "source": "bleepingcomputer",
       "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
       "date": "2026-08-19T17:50:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "date": "2026-08-19T15:56:09Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "date": "2026-08-19T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "date": "2026-08-19T13:12:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "date": "2026-08-19T11:34:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "date": "2026-08-19T11:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "date": "2026-08-19T11:25:28Z"
     }
   ]
 }
