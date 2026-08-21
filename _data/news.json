@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-21T07:09:27Z",
+  "updated": "2026-08-21T13:12:50Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "date": "2026-08-21T12:25:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "date": "2026-08-21T11:21:39Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "date": "2026-08-21T11:04:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "date": "2026-08-21T11:00:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "date": "2026-08-21T10:10:42Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "date": "2026-08-21T10:03:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "date": "2026-08-21T07:04:25Z"
+    },
     {
       "source": "the hacker news",
       "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
       "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
       "date": "2026-08-21T06:06:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "date": "2026-08-20T20:22:35Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "date": "2026-08-20T19:59:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "date": "2026-08-20T17:53:52Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "date": "2026-08-20T17:23:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "date": "2026-08-20T16:59:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "date": "2026-08-20T14:39:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "date": "2026-08-20T14:36:27Z"
     }
   ]
 }
