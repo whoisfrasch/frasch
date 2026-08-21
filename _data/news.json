@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-21T13:12:50Z",
+  "updated": "2026-08-21T18:58:33Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "date": "2026-08-21T18:01:30Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "date": "2026-08-21T15:55:15Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "date": "2026-08-21T15:52:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "date": "2026-08-21T15:41:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "date": "2026-08-21T14:54:49Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "date": "2026-08-21T14:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "date": "2026-08-21T13:39:35Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "date": "2026-08-21T12:25:33Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "date": "2026-08-21T11:21:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "date": "2026-08-21T11:04:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "date": "2026-08-21T11:00:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "date": "2026-08-21T10:10:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "date": "2026-08-21T10:03:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "date": "2026-08-21T07:04:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "date": "2026-08-21T06:06:11Z"
     }
   ]
 }
