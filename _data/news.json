@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-21T01:59:21Z",
+  "updated": "2026-08-21T07:09:27Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "date": "2026-08-21T06:06:11Z"
+    },
     {
       "source": "the hacker news",
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
@@ -21,7 +27,7 @@
     },
     {
       "source": "the hacker news",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "date": "2026-08-20T17:23:48Z"
     },
@@ -42,12 +48,6 @@
       "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
       "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "date": "2026-08-20T14:36:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "date": "2026-08-20T14:01:11Z"
     }
   ]
 }
