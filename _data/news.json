@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-20T19:02:20Z",
+  "updated": "2026-08-21T01:59:21Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "date": "2026-08-20T20:22:35Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "date": "2026-08-20T19:59:19Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
@@ -36,18 +48,6 @@
       "title": "How MSPs can catch phishing attacks email filters miss",
       "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
       "date": "2026-08-20T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "date": "2026-08-20T13:48:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "date": "2026-08-20T13:35:13Z"
     }
   ]
 }
