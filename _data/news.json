@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-21T18:58:33Z",
+  "updated": "2026-08-22T01:52:13Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "date": "2026-08-21T18:53:00Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
@@ -42,12 +48,6 @@
       "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
       "date": "2026-08-21T13:39:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "date": "2026-08-21T12:25:33Z"
     }
   ]
 }
