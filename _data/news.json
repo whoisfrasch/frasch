@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-23T13:03:47Z",
+  "updated": "2026-08-23T18:49:54Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "date": "2026-08-23T14:23:46Z"
+    },
     {
       "source": "the hacker news",
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -42,12 +48,6 @@
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
       "date": "2026-08-21T15:52:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "date": "2026-08-21T15:41:44Z"
     }
   ]
 }
