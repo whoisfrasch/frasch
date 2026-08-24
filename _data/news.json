@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-24T07:30:22Z",
+  "updated": "2026-08-24T13:15:16Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "date": "2026-08-23T14:23:46Z"
+      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+      "date": "2026-08-24T12:40:21Z"
     },
     {
       "source": "the hacker news",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "date": "2026-08-22T14:32:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "date": "2026-08-22T14:14:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "date": "2026-08-22T13:00:09Z"
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "date": "2026-08-24T11:58:00Z"
     },
     {
       "source": "the hacker news",
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "date": "2026-08-21T18:53:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "date": "2026-08-21T18:01:30Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "date": "2026-08-21T15:55:15Z"
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "date": "2026-08-24T11:56:34Z"
     },
     {
       "source": "the hacker news",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "date": "2026-08-21T15:52:10Z"
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "date": "2026-08-24T11:51:36Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "date": "2026-08-24T11:30:00Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "date": "2026-08-24T10:45:12Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "date": "2026-08-24T09:42:05Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "date": "2026-08-24T08:08:31Z"
     }
   ]
 }
