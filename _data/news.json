@@ -1,11 +1,35 @@
 {
-  "updated": "2026-08-24T19:02:22Z",
+  "updated": "2026-08-25T01:54:05Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "date": "2026-08-24T21:14:30Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "date": "2026-08-24T19:26:32Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "TikTok reaches $400M settlement with US over COPPA violations",
       "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
       "date": "2026-08-24T17:56:24Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "date": "2026-08-24T17:41:30Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "date": "2026-08-24T17:41:11Z"
     },
     {
       "source": "bleepingcomputer",
@@ -24,30 +48,6 @@
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
       "date": "2026-08-24T14:00:19Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "South Korean startup platform breach exposes key management failures",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-      "date": "2026-08-24T14:00:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-      "date": "2026-08-24T12:40:21Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "date": "2026-08-24T12:35:36Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "date": "2026-08-24T11:58:00Z"
     }
   ]
 }
