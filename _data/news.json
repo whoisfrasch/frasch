@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-25T01:54:05Z",
+  "updated": "2026-08-25T07:10:12Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+      "date": "2026-08-25T06:12:35Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
@@ -42,12 +48,6 @@
       "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
       "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
       "date": "2026-08-24T14:32:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft Teams now lets admins block external bots from meetings",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-      "date": "2026-08-24T14:00:19Z"
     }
   ]
 }
