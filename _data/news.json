@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-25T13:13:17Z",
+  "updated": "2026-08-25T18:59:10Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Massive DDoS attack disrupts Norway’s government digital services",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "date": "2026-08-25T15:52:36Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "date": "2026-08-25T14:44:16Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "date": "2026-08-25T14:07:37Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "date": "2026-08-25T14:01:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "date": "2026-08-25T13:51:58Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "date": "2026-08-25T13:19:41Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
@@ -8,46 +44,10 @@
       "date": "2026-08-25T13:00:00Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "date": "2026-08-25T12:04:02Z"
-    },
-    {
       "source": "the hacker news",
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "date": "2026-08-25T11:56:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "date": "2026-08-25T11:52:43Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "date": "2026-08-25T11:33:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "date": "2026-08-25T11:14:07Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "date": "2026-08-25T10:53:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "date": "2026-08-25T08:34:07Z"
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "date": "2026-08-25T12:43:51Z"
     }
   ]
 }
