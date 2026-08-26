@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-26T02:00:16Z",
+  "updated": "2026-08-26T07:10:27Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "date": "2026-08-26T06:27:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "date": "2026-08-26T05:47:28Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "LACMA data breach last year exposed social security and medical data",
@@ -36,18 +48,6 @@
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
       "date": "2026-08-25T14:44:16Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "date": "2026-08-25T14:07:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "date": "2026-08-25T14:01:11Z"
     }
   ]
 }
