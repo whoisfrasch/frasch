@@ -1,53 +1,53 @@
 {
-  "updated": "2026-08-26T07:10:27Z",
+  "updated": "2026-08-26T13:18:17Z",
   "items": [
     {
-      "source": "the hacker news",
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "date": "2026-08-26T06:27:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-      "date": "2026-08-26T05:47:28Z"
+      "source": "bleepingcomputer",
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "date": "2026-08-26T13:17:54Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "date": "2026-08-25T21:58:14Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "date": "2026-08-25T21:39:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-      "date": "2026-08-25T20:25:26Z"
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "date": "2026-08-26T12:06:28Z"
     },
     {
       "source": "the hacker news",
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "date": "2026-08-25T18:17:17Z"
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "date": "2026-08-26T11:55:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "date": "2026-08-26T11:36:49Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Massive DDoS attack disrupts Norway’s government digital services",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "date": "2026-08-25T15:52:36Z"
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "date": "2026-08-26T11:07:48Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "date": "2026-08-25T14:44:16Z"
+      "source": "the hacker news",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "date": "2026-08-26T10:27:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "date": "2026-08-26T09:38:45Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "date": "2026-08-26T07:54:12Z"
     }
   ]
 }
