@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-29T16:45:18Z",
+  "updated": "2026-08-29T20:57:48Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "date": "2026-08-29T16:25:03Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Brave browser adds email aliases to help users evade tracking",
@@ -42,12 +48,6 @@
       "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
       "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
       "date": "2026-08-28T17:12:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-      "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
-      "date": "2026-08-28T16:36:47Z"
     }
   ]
 }
