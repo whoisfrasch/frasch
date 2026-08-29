@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-29T07:08:24Z",
+  "updated": "2026-08-29T16:45:18Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "date": "2026-08-29T14:19:23Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
@@ -42,12 +48,6 @@
       "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
       "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
       "date": "2026-08-28T16:36:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-      "date": "2026-08-28T16:20:46Z"
     }
   ]
 }
