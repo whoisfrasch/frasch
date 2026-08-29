@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-28T22:24:38Z",
+  "updated": "2026-08-29T07:08:24Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "date": "2026-08-28T22:40:17Z"
+    },
     {
       "source": "the hacker news",
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -42,12 +48,6 @@
       "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
       "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
       "date": "2026-08-28T16:20:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "date": "2026-08-28T15:56:55Z"
     }
   ]
 }
