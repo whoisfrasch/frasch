@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-30T05:28:45Z",
+  "updated": "2026-08-30T11:58:09Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "date": "2026-08-30T07:36:33Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
@@ -42,12 +48,6 @@
       "title": "PaperCut releases second emergency patch for exploited flaws",
       "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
       "date": "2026-08-28T19:08:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "date": "2026-08-28T18:18:55Z"
     }
   ]
 }
