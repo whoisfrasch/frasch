@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-29T20:57:48Z",
+  "updated": "2026-08-30T05:28:45Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+      "date": "2026-08-29T23:11:51Z"
+    },
     {
       "source": "the hacker news",
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
@@ -42,12 +48,6 @@
       "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
       "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
       "date": "2026-08-28T18:18:55Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "date": "2026-08-28T17:12:15Z"
     }
   ]
 }
