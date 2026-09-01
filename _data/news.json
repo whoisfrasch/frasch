@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-01T11:43:07Z",
+  "updated": "2026-09-01T16:42:30Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+      "date": "2026-09-01T14:45:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Novocure data breach affects more than 1,400 cancer patients",
+      "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+      "date": "2026-09-01T14:28:40Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "date": "2026-09-01T14:07:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+      "date": "2026-09-01T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "date": "2026-09-01T13:08:58Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "date": "2026-09-01T12:38:35Z"
+    },
     {
       "source": "the hacker news",
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
@@ -12,42 +48,6 @@
       "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
       "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
       "date": "2026-09-01T09:15:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "date": "2026-09-01T09:05:30Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "date": "2026-09-01T08:26:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "date": "2026-09-01T07:48:24Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "date": "2026-09-01T07:22:30Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "date": "2026-08-31T20:47:54Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "date": "2026-08-31T18:51:04Z"
     }
   ]
 }
