@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-02T11:23:50Z",
+  "updated": "2026-09-02T16:37:51Z",
   "items": [
     {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "date": "2026-09-02T15:47:08Z"
+    },
+    {
       "source": "the hacker news",
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "date": "2026-09-02T10:53:49Z"
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "date": "2026-09-02T14:06:59Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "date": "2026-09-02T10:29:39Z"
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "date": "2026-09-02T14:02:12Z"
     },
     {
       "source": "the hacker news",
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "date": "2026-09-02T09:18:02Z"
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "date": "2026-09-02T13:44:16Z"
     },
     {
       "source": "the hacker news",
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "date": "2026-09-02T09:10:23Z"
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "date": "2026-09-02T13:12:45Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "date": "2026-09-02T09:06:48Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "date": "2026-09-02T08:00:43Z"
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "date": "2026-09-02T12:30:22Z"
     },
     {
       "source": "the hacker news",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "date": "2026-09-02T07:47:13Z"
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "date": "2026-09-02T12:22:02Z"
     },
     {
       "source": "the hacker news",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "date": "2026-09-02T07:08:50Z"
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "date": "2026-09-02T11:30:00Z"
     }
   ]
 }
