@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-03T11:20:19Z",
+  "updated": "2026-09-03T16:28:57Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "date": "2026-09-03T15:22:33Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "date": "2026-09-03T15:13:29Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "date": "2026-09-03T15:02:52Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "date": "2026-09-03T14:52:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "date": "2026-09-03T13:50:59Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+      "date": "2026-09-03T12:16:32Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "date": "2026-09-03T11:58:00Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Plex warns users to patch security vulnerabilities immediately",
       "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
       "date": "2026-09-03T11:02:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "date": "2026-09-03T08:55:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "date": "2026-09-03T08:43:17Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "date": "2026-09-03T06:26:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "date": "2026-09-03T05:19:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "date": "2026-09-02T21:00:13Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "date": "2026-09-02T19:28:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "date": "2026-09-02T18:27:49Z"
     }
   ]
 }
