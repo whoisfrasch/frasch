@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-04T11:23:22Z",
+  "updated": "2026-09-04T16:25:06Z",
   "items": [
     {
       "source": "the hacker news",
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "date": "2026-09-04T08:48:45Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "date": "2026-09-04T07:35:14Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
-      "date": "2026-09-04T07:18:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "date": "2026-09-04T06:47:52Z"
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "date": "2026-09-04T15:57:15Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "date": "2026-09-03T22:01:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "date": "2026-09-03T20:04:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "date": "2026-09-03T18:28:12Z"
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "date": "2026-09-04T15:25:59Z"
     },
     {
       "source": "the hacker news",
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "date": "2026-09-03T18:02:47Z"
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "date": "2026-09-04T15:20:19Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "date": "2026-09-04T14:51:13Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "date": "2026-09-04T14:30:15Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "date": "2026-09-04T14:01:11Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "date": "2026-09-04T13:22:01Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "date": "2026-09-04T12:22:30Z"
     }
   ]
 }
