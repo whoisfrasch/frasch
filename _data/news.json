@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-04T04:38:54Z",
+  "updated": "2026-09-04T11:23:22Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "date": "2026-09-04T08:48:45Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "date": "2026-09-04T07:35:14Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "date": "2026-09-04T07:18:47Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "date": "2026-09-04T06:47:52Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "French hospital fined €500,000 after breach exposes data of 727,000",
@@ -24,30 +48,6 @@
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
       "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
       "date": "2026-09-03T18:02:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-      "date": "2026-09-03T15:52:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "date": "2026-09-03T15:26:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "date": "2026-09-03T15:22:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "date": "2026-09-03T15:13:29Z"
     }
   ]
 }
