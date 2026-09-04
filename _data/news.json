@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-04T16:25:06Z",
+  "updated": "2026-09-04T20:47:50Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "date": "2026-09-04T16:56:45Z"
+    },
     {
       "source": "the hacker news",
       "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
@@ -42,12 +48,6 @@
       "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
       "date": "2026-09-04T13:22:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "date": "2026-09-04T12:22:30Z"
     }
   ]
 }
