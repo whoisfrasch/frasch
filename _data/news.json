@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-03T21:05:26Z",
+  "updated": "2026-09-04T04:38:54Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "date": "2026-09-03T22:01:37Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Coder's registry infrastructure compromised to push malicious modules",
@@ -42,12 +48,6 @@
       "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
       "date": "2026-09-03T15:13:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "date": "2026-09-03T15:02:52Z"
     }
   ]
 }
