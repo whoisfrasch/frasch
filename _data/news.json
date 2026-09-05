@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-05T04:35:05Z",
+  "updated": "2026-09-05T10:40:04Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "date": "2026-09-05T07:55:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "date": "2026-09-05T07:31:53Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
@@ -36,18 +48,6 @@
       "title": "Microsoft says some users can’t open the Teams desktop client",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
       "date": "2026-09-04T14:30:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "date": "2026-09-04T14:01:11Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "date": "2026-09-04T13:22:01Z"
     }
   ]
 }
