@@ -1,11 +1,29 @@
 {
-  "updated": "2026-09-05T15:17:36Z",
+  "updated": "2026-09-05T20:25:52Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "date": "2026-09-05T16:52:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "date": "2026-09-05T16:05:08Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "date": "2026-09-05T14:29:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "date": "2026-09-05T14:17:02Z"
     },
     {
       "source": "bleepingcomputer",
@@ -30,24 +48,6 @@
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
       "date": "2026-09-04T16:56:45Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "date": "2026-09-04T15:57:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "date": "2026-09-04T15:25:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "date": "2026-09-04T15:20:19Z"
     }
   ]
 }
