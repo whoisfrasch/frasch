@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-05T10:40:04Z",
+  "updated": "2026-09-05T15:17:36Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "date": "2026-09-05T14:29:13Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "date": "2026-09-05T11:11:50Z"
+    },
     {
       "source": "the hacker news",
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
@@ -36,18 +48,6 @@
       "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
       "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
       "date": "2026-09-04T15:20:19Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "date": "2026-09-04T14:51:13Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "date": "2026-09-04T14:30:15Z"
     }
   ]
 }
