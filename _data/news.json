@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-06T04:44:40Z",
+  "updated": "2026-09-06T11:01:57Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "date": "2026-09-06T09:32:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "date": "2026-09-06T08:34:20Z"
+    },
     {
       "source": "the hacker news",
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
@@ -36,18 +48,6 @@
       "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
       "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
       "date": "2026-09-05T11:11:50Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "date": "2026-09-05T07:55:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "date": "2026-09-05T07:31:53Z"
     }
   ]
 }
