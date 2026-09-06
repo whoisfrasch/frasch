@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-06T11:01:57Z",
+  "updated": "2026-09-06T15:30:30Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "date": "2026-09-06T14:23:46Z"
+    },
     {
       "source": "the hacker news",
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -42,12 +48,6 @@
       "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
       "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
       "date": "2026-09-05T14:17:02Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "date": "2026-09-05T11:11:50Z"
     }
   ]
 }
