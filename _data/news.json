@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-07T12:40:28Z",
+  "updated": "2026-09-07T21:33:21Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "date": "2026-09-07T18:12:09Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "date": "2026-09-07T16:50:29Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "date": "2026-09-07T15:51:56Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "date": "2026-09-07T15:39:51Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "date": "2026-09-07T14:36:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "date": "2026-09-07T13:05:11Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Trezor data breach impact now reaches 81,000 customers",
@@ -8,46 +44,10 @@
       "date": "2026-09-07T12:16:32Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-      "date": "2026-09-07T10:36:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "date": "2026-09-07T10:32:40Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "date": "2026-09-07T10:06:38Z"
-    },
-    {
       "source": "the hacker news",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "date": "2026-09-07T08:31:12Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "date": "2026-09-07T07:53:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "date": "2026-09-07T06:17:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "date": "2026-09-07T01:15:43Z"
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "date": "2026-09-07T11:45:00Z"
     }
   ]
 }
