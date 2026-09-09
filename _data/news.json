@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-08T21:12:55Z",
+  "updated": "2026-09-09T04:47:42Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+      "date": "2026-09-09T04:27:51Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+      "date": "2026-09-09T01:16:27Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
@@ -36,18 +48,6 @@
       "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
       "date": "2026-09-08T17:57:03Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "date": "2026-09-08T16:35:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI says ChatGPT outage causes image generation errors",
-      "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-      "date": "2026-09-08T16:28:42Z"
     }
   ]
 }
