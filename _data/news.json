@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-09T11:29:09Z",
+  "updated": "2026-09-09T16:42:08Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "date": "2026-09-09T15:31:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "date": "2026-09-09T14:23:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "date": "2026-09-09T14:01:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+      "date": "2026-09-09T11:57:36Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+      "date": "2026-09-09T11:17:07Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+      "date": "2026-09-09T10:43:04Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
@@ -9,45 +45,9 @@
     },
     {
       "source": "the hacker news",
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "date": "2026-09-09T09:11:03Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "date": "2026-09-09T08:44:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "date": "2026-09-09T08:19:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "date": "2026-09-09T07:36:49Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "date": "2026-09-09T07:30:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "date": "2026-09-09T06:47:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "date": "2026-09-09T06:25:48Z"
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "date": "2026-09-09T09:32:26Z"
     }
   ]
 }
