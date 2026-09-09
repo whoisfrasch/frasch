@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-09T16:42:08Z",
+  "updated": "2026-09-09T20:58:09Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "date": "2026-09-09T18:26:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "date": "2026-09-09T16:48:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "date": "2026-09-09T16:34:05Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
@@ -30,24 +48,6 @@
       "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
       "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
       "date": "2026-09-09T11:17:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "date": "2026-09-09T10:43:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "date": "2026-09-09T10:11:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "date": "2026-09-09T09:32:26Z"
     }
   ]
 }
