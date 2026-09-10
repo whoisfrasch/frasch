@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-10T11:25:42Z",
+  "updated": "2026-09-10T16:28:02Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "date": "2026-09-10T11:14:28Z"
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "date": "2026-09-10T15:55:56Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "date": "2026-09-10T09:10:20Z"
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "date": "2026-09-10T15:43:58Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "date": "2026-09-10T08:08:16Z"
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "date": "2026-09-10T14:55:33Z"
     },
     {
       "source": "the hacker news",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "date": "2026-09-10T07:12:55Z"
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "date": "2026-09-10T14:36:47Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "date": "2026-09-10T14:11:34Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "date": "2026-09-10T14:00:10Z"
     },
     {
       "source": "the hacker news",
-      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-      "date": "2026-09-10T07:04:01Z"
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "date": "2026-09-10T11:45:05Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "date": "2026-09-10T06:56:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "date": "2026-09-09T21:40:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "date": "2026-09-09T21:30:36Z"
+      "source": "the hacker news",
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "date": "2026-09-10T11:41:53Z"
     }
   ]
 }
