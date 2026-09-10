@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-09T20:58:09Z",
+  "updated": "2026-09-10T04:48:52Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "date": "2026-09-09T21:40:44Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "date": "2026-09-09T21:30:36Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "date": "2026-09-09T21:02:14Z"
+    },
     {
       "source": "the hacker news",
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -30,24 +48,6 @@
       "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
       "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
       "date": "2026-09-09T14:23:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "date": "2026-09-09T14:01:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "date": "2026-09-09T11:57:36Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "date": "2026-09-09T11:17:07Z"
     }
   ]
 }
