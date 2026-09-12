@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-12T10:52:11Z",
+  "updated": "2026-09-12T15:34:47Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "date": "2026-09-12T14:14:32Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+      "date": "2026-09-12T10:24:44Z"
+    },
     {
       "source": "the hacker news",
       "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
@@ -36,18 +48,6 @@
       "title": "Artifactory flaws chained in attacks deploying backdoor malware",
       "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
       "date": "2026-09-11T16:29:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "date": "2026-09-11T16:15:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "date": "2026-09-11T14:29:47Z"
     }
   ]
 }
