@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-12T04:40:16Z",
+  "updated": "2026-09-12T10:52:11Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "date": "2026-09-12T09:07:56Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
@@ -42,12 +48,6 @@
       "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
       "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
       "date": "2026-09-11T14:29:47Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "date": "2026-09-11T14:10:20Z"
     }
   ]
 }
