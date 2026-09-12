@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-12T15:34:47Z",
+  "updated": "2026-09-12T20:37:10Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "date": "2026-09-12T15:54:45Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
@@ -42,12 +48,6 @@
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
       "date": "2026-09-11T16:30:18Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "date": "2026-09-11T16:29:44Z"
     }
   ]
 }
