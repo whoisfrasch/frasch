@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-13T11:57:49Z",
+  "updated": "2026-09-13T16:22:45Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "date": "2026-09-13T14:26:32Z"
+    },
     {
       "source": "the hacker news",
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -42,12 +48,6 @@
       "title": "Florida confirms DMV database breached via stolen police account",
       "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
       "date": "2026-09-11T19:00:29Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "date": "2026-09-11T17:26:50Z"
     }
   ]
 }
