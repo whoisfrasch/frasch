@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-14T12:55:17Z",
+  "updated": "2026-09-14T21:52:13Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "date": "2026-09-14T12:15:23Z"
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "date": "2026-09-14T20:52:18Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "date": "2026-09-14T20:36:02Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "date": "2026-09-14T19:51:04Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "date": "2026-09-14T19:03:51Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "date": "2026-09-14T18:34:16Z"
     },
     {
       "source": "the hacker news",
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "date": "2026-09-14T11:58:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "date": "2026-09-14T09:50:25Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "date": "2026-09-14T08:48:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "date": "2026-09-14T08:08:16Z"
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "date": "2026-09-14T18:02:13Z"
     },
     {
       "source": "the hacker news",
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "date": "2026-09-14T07:24:39Z"
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "date": "2026-09-14T18:01:49Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "date": "2026-09-14T07:06:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "date": "2026-09-13T14:26:32Z"
+      "source": "the hacker news",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "date": "2026-09-14T17:58:16Z"
     }
   ]
 }
