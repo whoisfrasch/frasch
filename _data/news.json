@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-15T04:58:38Z",
+  "updated": "2026-09-15T11:49:54Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "date": "2026-09-15T09:50:25Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "date": "2026-09-15T08:40:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "date": "2026-09-15T07:31:09Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "date": "2026-09-15T06:52:16Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "date": "2026-09-15T06:11:11Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "date": "2026-09-15T05:31:05Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Microsoft releases emergency Windows updates to fix RDS failures",
@@ -12,42 +48,6 @@
       "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
       "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
       "date": "2026-09-14T20:36:02Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "date": "2026-09-14T19:51:04Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "date": "2026-09-14T19:03:51Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "date": "2026-09-14T18:34:16Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "date": "2026-09-14T18:02:13Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "date": "2026-09-14T18:01:49Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "date": "2026-09-14T17:58:16Z"
     }
   ]
 }
