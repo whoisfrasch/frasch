@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-16T17:03:19Z",
+  "updated": "2026-09-16T21:21:38Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "date": "2026-09-16T20:39:29Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "date": "2026-09-16T20:24:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "date": "2026-09-16T18:50:53Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "date": "2026-09-16T17:26:41Z"
+    },
     {
       "source": "the hacker news",
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
@@ -24,30 +48,6 @@
       "title": "The true cost of a ransomware attack, with and without BCDR",
       "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
       "date": "2026-09-16T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "date": "2026-09-16T13:37:07Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "date": "2026-09-16T13:14:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "date": "2026-09-16T12:16:32Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "date": "2026-09-16T12:11:19Z"
     }
   ]
 }
