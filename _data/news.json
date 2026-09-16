@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-16T04:54:03Z",
+  "updated": "2026-09-16T11:42:08Z",
   "items": [
     {
-      "source": "bleepingcomputer",
-      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-      "date": "2026-09-15T21:37:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "date": "2026-09-15T20:34:15Z"
+      "source": "the hacker news",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "date": "2026-09-16T11:15:58Z"
     },
     {
       "source": "the hacker news",
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "date": "2026-09-15T18:54:14Z"
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "date": "2026-09-16T11:15:48Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-      "date": "2026-09-15T16:40:14Z"
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "date": "2026-09-16T11:14:28Z"
     },
     {
       "source": "the hacker news",
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "date": "2026-09-15T16:29:51Z"
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "date": "2026-09-16T11:08:54Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "date": "2026-09-16T09:10:20Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "date": "2026-09-16T07:00:19Z"
     },
     {
       "source": "the hacker news",
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "date": "2026-09-15T15:23:19Z"
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "date": "2026-09-16T05:48:28Z"
     },
     {
-      "source": "bleepingcomputer",
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-      "date": "2026-09-15T15:00:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "date": "2026-09-15T14:45:10Z"
+      "source": "the hacker news",
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "date": "2026-09-16T05:18:06Z"
     }
   ]
 }
