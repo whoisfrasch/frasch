@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-15T21:24:44Z",
+  "updated": "2026-09-16T04:54:03Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "date": "2026-09-15T21:37:35Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
@@ -42,12 +48,6 @@
       "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
       "date": "2026-09-15T14:45:10Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-      "date": "2026-09-15T13:45:54Z"
     }
   ]
 }
