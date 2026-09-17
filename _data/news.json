@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-16T21:21:38Z",
+  "updated": "2026-09-17T04:57:22Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "date": "2026-09-17T00:35:48Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
@@ -42,12 +48,6 @@
       "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
       "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
       "date": "2026-09-16T14:36:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "date": "2026-09-16T14:00:10Z"
     }
   ]
 }
