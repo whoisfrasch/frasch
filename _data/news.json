@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-18T11:21:40Z",
+  "updated": "2026-09-18T16:28:19Z",
   "items": [
     {
-      "source": "the hacker news",
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "date": "2026-09-18T10:40:06Z"
-    },
-    {
       "source": "bleepingcomputer",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "date": "2026-09-18T09:34:33Z"
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "date": "2026-09-18T16:00:38Z"
     },
     {
       "source": "the hacker news",
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "date": "2026-09-18T09:18:03Z"
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "date": "2026-09-18T15:24:16Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "date": "2026-09-18T07:35:31Z"
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "date": "2026-09-18T15:19:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "date": "2026-09-18T14:00:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "date": "2026-09-18T13:58:40Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "date": "2026-09-18T13:10:19Z"
     },
     {
       "source": "the hacker news",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "date": "2026-09-18T06:17:25Z"
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "date": "2026-09-18T12:47:04Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "date": "2026-09-17T21:50:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "date": "2026-09-17T18:55:12Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "date": "2026-09-17T18:08:28Z"
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "date": "2026-09-18T12:16:32Z"
     }
   ]
 }
