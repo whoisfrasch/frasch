@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-18T04:49:16Z",
+  "updated": "2026-09-18T11:21:40Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "date": "2026-09-18T10:40:06Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "date": "2026-09-18T09:34:33Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "date": "2026-09-18T09:18:03Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "date": "2026-09-18T07:35:31Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "date": "2026-09-18T06:17:25Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New RatHat Android malware uses AI to automate device control",
@@ -18,36 +48,6 @@
       "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
       "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
       "date": "2026-09-17T18:08:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "date": "2026-09-17T17:32:22Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "date": "2026-09-17T17:11:34Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "date": "2026-09-17T15:37:56Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "date": "2026-09-17T14:03:13Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "date": "2026-09-17T14:01:11Z"
     }
   ]
 }
