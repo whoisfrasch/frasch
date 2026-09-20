@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-20T11:30:13Z",
+  "updated": "2026-09-20T16:11:31Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "date": "2026-09-20T14:11:21Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "date": "2026-09-20T12:00:00Z"
+    },
     {
       "source": "the hacker news",
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
@@ -36,18 +48,6 @@
       "title": "Identity Visibility in 2026: The Foundation of Identity Security",
       "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
       "date": "2026-09-19T13:28:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "date": "2026-09-19T11:38:20Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "date": "2026-09-19T09:31:17Z"
     }
   ]
 }
