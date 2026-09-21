@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-21T05:02:22Z",
+  "updated": "2026-09-21T12:54:42Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft: September updates break File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "date": "2026-09-21T11:45:54Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "date": "2026-09-21T08:39:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "date": "2026-09-21T06:06:44Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Malicious npm packages evade install-script defenses at runtime",
@@ -30,24 +48,6 @@
       "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
       "date": "2026-09-19T14:05:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "date": "2026-09-19T13:48:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "date": "2026-09-19T13:28:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "date": "2026-09-19T13:28:41Z"
     }
   ]
 }
