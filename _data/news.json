@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-22T11:44:33Z",
+  "updated": "2026-09-22T17:00:23Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "date": "2026-09-22T09:55:11Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "date": "2026-09-22T09:38:18Z"
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "date": "2026-09-22T16:32:47Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "date": "2026-09-22T08:53:09Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "date": "2026-09-22T07:52:03Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "date": "2026-09-22T06:33:57Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "date": "2026-09-22T06:03:14Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "date": "2026-09-22T05:31:59Z"
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "date": "2026-09-22T15:00:00Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "date": "2026-09-21T21:18:49Z"
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "date": "2026-09-22T12:57:07Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "date": "2026-09-22T12:48:06Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "date": "2026-09-22T12:30:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "date": "2026-09-22T12:29:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "date": "2026-09-22T11:45:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "date": "2026-09-22T11:38:40Z"
     }
   ]
 }
