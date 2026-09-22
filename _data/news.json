@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-22T17:00:23Z",
+  "updated": "2026-09-22T21:22:53Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "date": "2026-09-22T16:32:47Z"
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "date": "2026-09-22T20:35:24Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "date": "2026-09-22T15:00:00Z"
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "date": "2026-09-22T19:13:29Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "date": "2026-09-22T18:29:39Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "date": "2026-09-22T12:57:07Z"
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "date": "2026-09-22T18:04:39Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "date": "2026-09-22T18:03:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "date": "2026-09-22T17:58:15Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "date": "2026-09-22T12:48:06Z"
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "date": "2026-09-22T17:17:41Z"
     },
     {
       "source": "the hacker news",
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "date": "2026-09-22T12:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "date": "2026-09-22T12:29:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "date": "2026-09-22T11:45:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "date": "2026-09-22T11:38:40Z"
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "date": "2026-09-22T17:03:31Z"
     }
   ]
 }
