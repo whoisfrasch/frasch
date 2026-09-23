@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-23T04:49:51Z",
+  "updated": "2026-09-23T11:43:41Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft: September Windows updates break Always On VPN connections",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+      "date": "2026-09-23T11:18:13Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "date": "2026-09-23T08:29:48Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "date": "2026-09-23T08:29:24Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "date": "2026-09-23T08:20:05Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "date": "2026-09-23T07:17:23Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "date": "2026-09-23T07:04:40Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "date": "2026-09-23T05:30:09Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Rogue external MFA providers can steal passwords during logins",
       "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
       "date": "2026-09-22T21:45:45Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
-      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-      "date": "2026-09-22T21:40:37Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "date": "2026-09-22T20:35:24Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "date": "2026-09-22T19:13:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "date": "2026-09-22T18:29:39Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "date": "2026-09-22T18:04:39Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "date": "2026-09-22T18:03:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "date": "2026-09-22T17:58:15Z"
     }
   ]
 }
