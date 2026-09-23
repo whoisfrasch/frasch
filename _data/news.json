@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-22T21:22:53Z",
+  "updated": "2026-09-23T04:49:51Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "date": "2026-09-22T21:45:45Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "date": "2026-09-22T21:40:37Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
@@ -36,18 +48,6 @@
       "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
       "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
       "date": "2026-09-22T17:58:15Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "date": "2026-09-22T17:17:41Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "date": "2026-09-22T17:03:31Z"
     }
   ]
 }
