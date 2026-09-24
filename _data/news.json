@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-23T21:32:49Z",
+  "updated": "2026-09-24T04:57:31Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "date": "2026-09-23T22:46:01Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
@@ -42,12 +48,6 @@
       "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
       "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
       "date": "2026-09-23T16:06:41Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "date": "2026-09-23T14:35:26Z"
     }
   ]
 }
