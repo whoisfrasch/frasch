@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-25T17:15:50Z",
+  "updated": "2026-09-25T21:37:59Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "date": "2026-09-25T20:57:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "date": "2026-09-25T18:13:33Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "date": "2026-09-25T17:24:20Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
@@ -30,24 +48,6 @@
       "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
       "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
       "date": "2026-09-25T13:18:06Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "date": "2026-09-25T12:40:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "date": "2026-09-25T11:35:14Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "date": "2026-09-25T11:30:00Z"
     }
   ]
 }
