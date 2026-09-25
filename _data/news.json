@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-25T05:02:22Z",
+  "updated": "2026-09-25T11:55:32Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "date": "2026-09-25T11:35:14Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "date": "2026-09-25T10:35:55Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "date": "2026-09-25T10:30:38Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "date": "2026-09-25T10:14:02Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "date": "2026-09-25T08:33:44Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "date": "2026-09-25T04:49:22Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "date": "2026-09-25T04:46:34Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "date": "2026-09-24T20:53:35Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "date": "2026-09-24T20:10:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "date": "2026-09-24T18:10:18Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "date": "2026-09-24T17:52:43Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "date": "2026-09-24T17:47:44Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "date": "2026-09-24T15:27:32Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "date": "2026-09-24T14:29:06Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "date": "2026-09-24T14:02:12Z"
     }
   ]
 }
