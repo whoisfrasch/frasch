@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-25T21:37:59Z",
+  "updated": "2026-09-26T05:05:05Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "date": "2026-09-25T21:41:07Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
@@ -42,12 +48,6 @@
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
       "date": "2026-09-25T14:44:41Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
-      "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-      "date": "2026-09-25T13:18:06Z"
     }
   ]
 }
