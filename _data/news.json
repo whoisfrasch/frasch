@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-26T16:27:14Z",
+  "updated": "2026-09-26T21:14:03Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "date": "2026-09-26T19:03:34Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "date": "2026-09-26T18:22:52Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
@@ -36,18 +48,6 @@
       "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
       "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
       "date": "2026-09-26T10:30:00Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "date": "2026-09-26T09:55:22Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "date": "2026-09-26T08:49:53Z"
     }
   ]
 }
