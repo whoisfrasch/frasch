@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-27T21:23:31Z",
+  "updated": "2026-09-28T05:29:42Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+      "date": "2026-09-27T23:40:39Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
@@ -42,12 +48,6 @@
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
       "date": "2026-09-26T16:26:58Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "date": "2026-09-26T15:50:38Z"
     }
   ]
 }
