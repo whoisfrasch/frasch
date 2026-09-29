@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-29T05:48:17Z",
+  "updated": "2026-09-29T12:58:55Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "date": "2026-09-29T11:41:53Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "date": "2026-09-29T09:04:06Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "date": "2026-09-29T08:35:10Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "date": "2026-09-29T07:33:12Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "date": "2026-09-29T06:08:25Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "date": "2026-09-29T05:12:32Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "date": "2026-09-29T04:45:20Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Japan's Keio confirms ransomware attack disrupted business systems",
       "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
       "date": "2026-09-28T20:56:47Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "date": "2026-09-28T20:31:16Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "date": "2026-09-28T19:49:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "date": "2026-09-28T19:18:01Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "date": "2026-09-28T18:50:59Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "date": "2026-09-28T18:35:42Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "date": "2026-09-28T18:20:38Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "date": "2026-09-28T17:42:18Z"
     }
   ]
 }
