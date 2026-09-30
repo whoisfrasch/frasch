@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-29T22:19:47Z",
+  "updated": "2026-09-30T05:37:54Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "date": "2026-09-30T00:40:57Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
@@ -42,12 +48,6 @@
       "title": "Windows 11 2026 Update released, here's everything you need to know",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
       "date": "2026-09-29T17:37:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "date": "2026-09-29T17:20:17Z"
     }
   ]
 }
