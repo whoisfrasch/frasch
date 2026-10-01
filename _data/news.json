@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T22:20:08Z",
+  "updated": "2026-10-01T06:02:10Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "date": "2026-10-01T05:21:10Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "date": "2026-10-01T05:10:09Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "date": "2026-10-01T04:35:34Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Russian state hackers use new RedFlick technique to push malware",
@@ -30,24 +48,6 @@
       "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
       "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
       "date": "2026-09-30T16:32:59Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "date": "2026-09-30T15:49:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "date": "2026-09-30T15:24:54Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "date": "2026-09-30T15:00:15Z"
     }
   ]
 }
