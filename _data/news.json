@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-02T12:42:48Z",
+  "updated": "2026-10-02T22:17:41Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "date": "2026-10-02T12:37:40Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-      "date": "2026-10-02T12:23:15Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "date": "2026-10-02T11:30:00Z"
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "date": "2026-10-02T19:01:40Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "date": "2026-10-02T09:29:56Z"
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "date": "2026-10-02T18:33:01Z"
     },
     {
       "source": "the hacker news",
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "date": "2026-10-02T08:01:30Z"
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "date": "2026-10-02T17:33:31Z"
     },
     {
       "source": "the hacker news",
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "date": "2026-10-02T05:49:50Z"
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "date": "2026-10-02T17:33:16Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "date": "2026-10-02T17:02:12Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "date": "2026-10-01T22:42:49Z"
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "date": "2026-10-02T16:20:05Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "date": "2026-10-01T20:52:50Z"
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "date": "2026-10-02T15:20:53Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "date": "2026-10-02T14:00:10Z"
     }
   ]
 }
