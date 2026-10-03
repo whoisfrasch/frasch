@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-03T11:44:08Z",
+  "updated": "2026-10-03T16:25:58Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+      "date": "2026-10-03T14:38:46Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "date": "2026-10-03T14:36:33Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+      "date": "2026-10-03T14:35:20Z"
+    },
     {
       "source": "the hacker news",
       "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
@@ -30,24 +48,6 @@
       "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
       "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
       "date": "2026-10-02T17:33:16Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-      "date": "2026-10-02T17:02:12Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "date": "2026-10-02T16:20:05Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "date": "2026-10-02T15:20:53Z"
     }
   ]
 }
