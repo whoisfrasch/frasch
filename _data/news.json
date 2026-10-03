@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-03T16:25:58Z",
+  "updated": "2026-10-03T21:21:53Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "date": "2026-10-03T19:09:38Z"
+    },
     {
       "source": "the hacker news",
       "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
@@ -42,12 +48,6 @@
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
       "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
       "date": "2026-10-02T17:33:31Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "date": "2026-10-02T17:33:16Z"
     }
   ]
 }
