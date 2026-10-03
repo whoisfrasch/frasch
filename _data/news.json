@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-03T05:23:18Z",
+  "updated": "2026-10-03T11:44:08Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "date": "2026-10-03T11:00:00Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Frontline Education breach exposes school district employee data",
@@ -42,12 +48,6 @@
       "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
       "date": "2026-10-02T15:20:53Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-      "date": "2026-10-02T14:00:10Z"
     }
   ]
 }
