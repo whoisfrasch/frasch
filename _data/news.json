@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-03T21:21:53Z",
+  "updated": "2026-10-04T05:59:11Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "date": "2026-10-03T23:12:34Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
@@ -42,12 +48,6 @@
       "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
       "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
       "date": "2026-10-02T18:33:01Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "date": "2026-10-02T17:33:31Z"
     }
   ]
 }
