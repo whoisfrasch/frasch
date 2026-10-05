@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-04T21:33:01Z",
+  "updated": "2026-10-05T05:47:44Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "date": "2026-10-04T21:58:01Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Anthropic asks Claude users to share voice data for AI model training",
@@ -42,12 +48,6 @@
       "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
       "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
       "date": "2026-10-03T14:36:33Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "date": "2026-10-03T14:35:20Z"
     }
   ]
 }
