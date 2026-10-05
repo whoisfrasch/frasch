@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-05T05:47:44Z",
+  "updated": "2026-10-05T14:48:25Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "date": "2026-10-04T21:58:01Z"
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "date": "2026-10-05T14:22:12Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "date": "2026-10-04T10:53:21Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "date": "2026-10-04T07:22:05Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "date": "2026-10-04T07:20:32Z"
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "date": "2026-10-05T13:33:42Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "date": "2026-10-03T23:12:34Z"
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "date": "2026-10-05T13:01:45Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+      "date": "2026-10-05T11:55:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "date": "2026-10-05T11:46:25Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "date": "2026-10-05T10:38:50Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "date": "2026-10-03T19:09:38Z"
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "date": "2026-10-05T10:28:45Z"
     },
     {
-      "source": "the hacker news",
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "date": "2026-10-03T14:38:46Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "date": "2026-10-03T14:36:33Z"
+      "source": "bleepingcomputer",
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "date": "2026-10-05T09:37:56Z"
     }
   ]
 }
