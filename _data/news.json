@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-07T06:06:02Z",
+  "updated": "2026-10-07T13:30:51Z",
   "items": [
     {
       "source": "bleepingcomputer",
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "date": "2026-10-06T21:00:27Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "date": "2026-10-06T19:21:53Z"
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "date": "2026-10-07T12:49:01Z"
     },
     {
       "source": "the hacker news",
-      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-      "date": "2026-10-06T18:38:55Z"
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "date": "2026-10-07T11:57:05Z"
     },
     {
       "source": "the hacker news",
-      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "date": "2026-10-06T18:24:25Z"
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "date": "2026-10-07T11:56:56Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "date": "2026-10-07T11:49:26Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "date": "2026-10-07T11:42:24Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "date": "2026-10-06T17:34:59Z"
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "date": "2026-10-07T11:37:07Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "date": "2026-10-06T16:33:54Z"
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "date": "2026-10-07T10:35:15Z"
     },
     {
       "source": "bleepingcomputer",
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "date": "2026-10-06T15:16:44Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "date": "2026-10-06T14:00:10Z"
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "date": "2026-10-07T10:27:52Z"
     }
   ]
 }
