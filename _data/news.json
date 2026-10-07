@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-06T18:25:30Z",
+  "updated": "2026-10-07T06:06:02Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "date": "2026-10-06T21:00:27Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "date": "2026-10-06T19:21:53Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "date": "2026-10-06T18:38:55Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "date": "2026-10-06T18:24:25Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
@@ -24,30 +48,6 @@
       "title": "How to secure RMM software: 8 controls MSPs should test",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
       "date": "2026-10-06T14:00:10Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-      "date": "2026-10-06T11:57:00Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "date": "2026-10-06T11:31:48Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "date": "2026-10-06T11:26:25Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "date": "2026-10-06T11:02:30Z"
     }
   ]
 }
