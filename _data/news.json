@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-10T12:38:09Z",
+  "updated": "2026-10-10T21:48:17Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "date": "2026-10-10T15:07:54Z"
+    },
+    {
+      "source": "bleepingcomputer",
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "date": "2026-10-10T14:16:17Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
@@ -36,18 +48,6 @@
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
       "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
       "date": "2026-10-09T17:45:26Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "date": "2026-10-09T17:17:23Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "date": "2026-10-09T17:02:29Z"
     }
   ]
 }
