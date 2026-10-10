@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-10T05:58:17Z",
+  "updated": "2026-10-10T12:38:09Z",
   "items": [
+    {
+      "source": "bleepingcomputer",
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "date": "2026-10-10T12:30:39Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "date": "2026-10-10T11:00:00Z"
+    },
+    {
+      "source": "the hacker news",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "date": "2026-10-10T09:18:45Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
@@ -30,24 +48,6 @@
       "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
       "date": "2026-10-09T17:02:29Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "date": "2026-10-09T16:29:55Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "date": "2026-10-09T15:38:56Z"
-    },
-    {
-      "source": "bleepingcomputer",
-      "title": "How to keep AI agents within their permissions",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "date": "2026-10-09T14:01:11Z"
     }
   ]
 }
