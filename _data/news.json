@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-10T21:48:17Z",
+  "updated": "2026-10-11T05:53:30Z",
   "items": [
+    {
+      "source": "the hacker news",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "date": "2026-10-11T04:24:34Z"
+    },
     {
       "source": "bleepingcomputer",
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -42,12 +48,6 @@
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
       "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
       "date": "2026-10-09T19:14:28Z"
-    },
-    {
-      "source": "the hacker news",
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "date": "2026-10-09T17:45:26Z"
     }
   ]
 }
